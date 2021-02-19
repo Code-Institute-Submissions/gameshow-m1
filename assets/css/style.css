@@ -20,23 +20,34 @@ footer {
   background: linear-gradient(to bottom, #686767fa, #000000);
 }
 
-/*---Platform/Social Icon colouring---*/
-
-/*-Playstation colouring taken from ReadMe file link*/
+/*---Platform/Social Icon colouring --> colouring taken from ReadMe file link---*/
 .icon-colour-playstation {
     color: #006bcf;
 }
 
-/*-Xbox colouring taken from ReadMe file link*/
 .icon-colour-xbox {
     color: #5dc21e;
 }
 
-/*-Switch colouring taken from ReadMe file link*/
 .icon-colour-switch {
     color: #ff4554;
 }
 
+.icon-colour-instagram {
+    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d)
+}
+
+.icon-colour-twitter {
+    background: #1DA1F2;
+}
+
+.icon-colour-youtube {
+    background: #FF0000;
+}
+
+.icon-colour-twitch {
+    background: #b9a3e3;
+}
 
 /*---Navbar---*/
 .navbar {
@@ -66,4 +77,21 @@ footer {
 .btn--suggestion {
     background-color: #000000;
     border: 2px solid;
+}
+
+.social-tags li {
+    list-style-type: none;
+    margin-top: 10px;
+}
+
+.social-tags li a i {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 20px;
+    line-height: 7px;
+    text-align: center;
+    float: left;
+    padding: 16px 0;
+    color: #fafafa;
 }
