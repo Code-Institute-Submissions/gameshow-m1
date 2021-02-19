@@ -15,9 +15,11 @@ footer {
 }
 
 /*---Site background colouring---*/
-.navbar-colouring {
+.navbar-colouring, 
+footer {
   background: linear-gradient(to bottom, #686767fa, #000000);
 }
+
 
 /*---Navbar---*/
 .navbar {
@@ -34,4 +36,12 @@ footer {
 
 .active {
     text-decoration: underline;
+}
+
+/*---Footer---*/
+footer {
+    min-height: 120px;
+    padding: 10px 15px;
+    color: #fafafa;
+    text-align: center;
 }
