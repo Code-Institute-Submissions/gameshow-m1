@@ -20,6 +20,23 @@ footer {
   background: linear-gradient(to bottom, #686767fa, #000000);
 }
 
+/*---Platform/Social Icon colouring---*/
+
+/*-Playstation colouring taken from ReadMe file link*/
+.icon-colour-playstation {
+    color: #006bcf;
+}
+
+/*-Xbox colouring taken from ReadMe file link*/
+.icon-colour-xbox {
+    color: #5dc21e;
+}
+
+/*-Switch colouring taken from ReadMe file link*/
+.icon-colour-switch {
+    color: #ff4554;
+}
+
 
 /*---Navbar---*/
 .navbar {
@@ -44,4 +61,9 @@ footer {
     padding: 10px 15px;
     color: #fafafa;
     text-align: center;
+}
+
+.btn--suggestion {
+    background-color: #000000;
+    border: 2px solid;
 }
