@@ -1,1 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+
+
+/*---General---*/
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+header, 
+body, 
+footer {
+    font-family: 'Poppins', sans-serif;
+}
+
+/*---Header---*/
+
+
+/*---Navbar---*/
+.active {
+    text-decoration: underline;
+}
