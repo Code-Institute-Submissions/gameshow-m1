@@ -49,6 +49,22 @@ footer {
     background: #b9a3e3;
 }
 
+.icon-colour-instagram:hover {
+    background: rgba(240, 48, 214, 0.952);
+}
+
+.icon-colour-twitter:hover {
+    background: rgba(5, 59, 235, 0.5);
+}
+
+.icon-colour-youtube:hover {
+    background: rgba(245, 21, 21, 0.5);
+}
+
+.icon-colour-twitch:hover {
+    background: rgba(214, 3, 186, 0.5);
+}
+
 /*---Navbar---*/
 .navbar {
     margin-bottom: 0;
