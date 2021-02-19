@@ -14,10 +14,24 @@ footer {
     font-family: 'Poppins', sans-serif;
 }
 
-/*---Header---*/
-
+/*---Site background colouring---*/
+.navbar-colouring {
+  background: linear-gradient(to bottom, #686767fa, #000000);
+}
 
 /*---Navbar---*/
+.navbar {
+    margin-bottom: 0;
+    width: 100%;
+    border: 0;
+    z-index: 1;
+}
+
+.nav-link {
+    list-style-type: none;
+    color: #fafafa;
+}
+
 .active {
     text-decoration: underline;
 }
