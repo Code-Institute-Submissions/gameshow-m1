@@ -95,3 +95,27 @@ footer {
     padding: 16px 0;
     color: #fafafa;
 }
+
+/*---Modal---*/
+.modal-content {
+    border: 2px solid #fafafa;
+}
+
+.modal-header, .modal-title {
+    background-color: #000000;
+}
+
+.modal-title {
+    color: #fafafa;
+}
+
+form {
+    width: 100%;
+    padding: 15px;
+    background-color: #0c0b0b;
+    color: #fafafa;
+}
+
+.close {
+    color: #fafafa; 
+}
