@@ -141,3 +141,17 @@ form {
 .close {
     color: #fafafa; 
 }
+
+/*---Index page background image/text---*/
+.background-image {
+    background: url("../images/full_size/controller.jpg") no-repeat;
+    height: 90vh;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
