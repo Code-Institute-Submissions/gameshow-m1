@@ -58,6 +58,19 @@ footer {
     background: #b9a3e3;
 }
 
+/*---Gaming Card colouring---*/
+.sims-image {
+    box-shadow: 6px 6px 20px rgba(25, 212, 25, 0.877);
+}
+
+.lou-image {
+    box-shadow: 6px 6px 20px rgba(182, 23, 12, 0.877);
+}
+
+.ac-image {
+    box-shadow: 6px 6px 20px rgba(29, 124, 248, 0.877);
+}
+
 /*---Platform/Social Icon hover responsiveness---*/
 .icon-colour-instagram:hover {
     background: rgba(240, 48, 214, 0.952);
@@ -197,3 +210,10 @@ form {
     text-align: center;
     vertical-align: middle;
 }
+
+.table-streams-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
