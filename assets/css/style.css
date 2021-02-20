@@ -217,7 +217,7 @@ form {
     margin-top: 5px;
     margin-left: 5px;
     margin-right: 5px;
-    white-space: nowrap;
+    white-space: nowrap; /*---Sourced as per documented in ReadMe--*/
 }
 
 .streams-info th, .streams-info td,
