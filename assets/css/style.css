@@ -192,28 +192,34 @@ form {
     background-color: transparent;
 }
 
-/*---Upcoming streams---*/
-.streams-heading {
+/*---Upcoming streams/Currently playing---*/
+.streams-heading,
+.playing-heading {
     color: #fafafa;
     padding-top: 15px;
     text-align: center;
 }
 
-.streams-info {
+.streams-info,
+.playing-info {
     margin-top: 5px;
     margin-left: 5px;
     margin-right: 5px;
 }
 
-.streams-info th, .streams-info td {
+.streams-info th, .streams-info td,
+.playing-info th, .playing-info td{
     color: #fafafa;
     text-align: center;
     vertical-align: middle;
 }
 
-.table-streams-image {
+.table-streams-image,
+.table-playing-image {
     width: 80px;
     height: 80px;
     border-radius: 50%;
 }
+
+/*---Currently playing---*/
 
