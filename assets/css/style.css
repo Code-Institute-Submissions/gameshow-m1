@@ -71,6 +71,18 @@ footer {
     box-shadow: 0px 0px 20px rgba(29, 124, 248, 0.877);
 }
 
+.sackboy-image {
+    box-shadow: 0px 0px 20px rgba(212, 25, 212, 0.877);
+}
+
+.spider-image {
+    box-shadow: 0px 0px 20px rgba(241, 100, 90, 0.877);
+}
+
+.cyber-image {
+    box-shadow: 0px 0px 20px rgba(252, 255, 55, 0.877);
+}
+
 /*---Platform/Social Icon hover responsiveness---*/
 .icon-colour-instagram:hover {
     background: rgba(240, 48, 214, 0.952);
@@ -205,6 +217,7 @@ form {
     margin-top: 5px;
     margin-left: 5px;
     margin-right: 5px;
+    white-space: nowrap;
 }
 
 .streams-info th, .streams-info td,
