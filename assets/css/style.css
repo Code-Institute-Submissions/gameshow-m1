@@ -60,15 +60,15 @@ footer {
 
 /*---Gaming Card colouring---*/
 .sims-image {
-    box-shadow: 6px 6px 20px rgba(25, 212, 25, 0.877);
+    box-shadow: 0px 0px 20px rgba(25, 212, 25, 0.877);
 }
 
 .lou-image {
-    box-shadow: 6px 6px 20px rgba(182, 23, 12, 0.877);
+    box-shadow: 0px 0px 20px rgba(182, 23, 12, 0.877);
 }
 
 .ac-image {
-    box-shadow: 6px 6px 20px rgba(29, 124, 248, 0.877);
+    box-shadow: 0px 0px 20px rgba(29, 124, 248, 0.877);
 }
 
 /*---Platform/Social Icon hover responsiveness---*/
