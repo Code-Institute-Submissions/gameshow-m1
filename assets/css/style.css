@@ -25,6 +25,10 @@ footer {
   background: linear-gradient(to bottom, #686767fa, #000000);
 }
 
+.streams-playing {
+    background: linear-gradient(180deg, #000000, #686767fa);
+}
+
 /*---Platform/Social Icon colouring --> colouring taken from ReadMe file link---*/
 .icon-colour-playstation {
     color: #006bcf;
@@ -173,4 +177,23 @@ form {
 
 .jumbotron {
     background-color: transparent;
+}
+
+/*---Upcoming streams---*/
+.streams-heading {
+    color: #fafafa;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.streams-info {
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.streams-info th, .streams-info td {
+    color: #fafafa;
+    text-align: center;
+    vertical-align: middle;
 }
