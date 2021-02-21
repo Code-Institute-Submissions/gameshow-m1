@@ -25,7 +25,8 @@ footer {
   background: linear-gradient(to bottom, #686767fa, #000000);
 }
 
-.streams-playing {
+.streams-playing,
+.upcoming-games {
     background: linear-gradient(180deg, #000000, #686767fa);
 }
 
@@ -232,4 +233,11 @@ form {
     width: 80px;
     height: 80px;
     border-radius: 50%;
+}
+
+/*---Upcoming games---*/
+.upcoming-heading {
+    color: #fafafa;
+    padding-top: 35px;
+    text-align: center;
 }
