@@ -218,6 +218,10 @@ form {
 }
 
 /*---Upcoming streams/Currently playing---*/
+.playstation-upcoming {
+    border: 2px groove #fafafa;
+}
+
 .streams-heading,
 .playing-heading {
     color: #fafafa;
