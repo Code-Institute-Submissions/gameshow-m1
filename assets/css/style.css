@@ -236,7 +236,8 @@ form {
 }
 
 /*---Upcoming games---*/
-.upcoming-heading {
+.upcoming-heading,
+.upcoming-platform-heading {
     color: #fafafa;
     padding-top: 35px;
     text-align: center;
