@@ -242,3 +242,16 @@ form {
     padding-top: 35px;
     text-align: center;
 }
+
+.upcoming-info {
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    white-space: nowrap; /*---Sourced as per documented in ReadMe--*/
+}
+
+.upcoming-info th, .upcoming-info td{
+    color: #fafafa;
+    text-align: center;
+    vertical-align: middle;
+}
