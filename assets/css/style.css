@@ -84,6 +84,18 @@ footer {
     box-shadow: 0px 0px 20px rgba(252, 255, 55, 0.877);
 }
 
+.dying-image {
+    box-shadow: 0px 0px 20px rgba(248, 5, 5, 0.877);
+}
+
+.outrider-image {
+    box-shadow: 0px 0px 20px rgba(150, 150, 150, 0.877);
+}
+
+.rachet-image {
+    box-shadow: 0px 0px 20px rgba(64, 249, 255, 0.877);
+}
+
 /*---Platform/Social Icon hover responsiveness---*/
 .icon-colour-instagram:hover {
     background: rgba(240, 48, 214, 0.952);
@@ -254,4 +266,10 @@ form {
     color: #fafafa;
     text-align: center;
     vertical-align: middle;
+}
+
+.table-upcoming-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
 }
