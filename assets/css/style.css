@@ -96,6 +96,18 @@ footer {
     box-shadow: 0px 0px 20px rgba(64, 249, 255, 0.877);
 }
 
+.good-image {
+    box-shadow: 0px 0px 20px rgba(46, 255, 39, 0.877);
+}
+
+.evil-image {
+    box-shadow: 0px 0px 20px rgba(228, 13, 13, 0.877);
+}
+
+.halo-image {
+    box-shadow: 0px 0px 20px rgba(6, 245, 253, 0.938);
+}
+
 /*---Platform/Social Icon hover responsiveness---*/
 .icon-colour-instagram:hover {
     background: rgba(240, 48, 214, 0.952);
@@ -218,7 +230,8 @@ form {
 }
 
 /*---Upcoming streams/Currently playing---*/
-.playstation-upcoming {
+.playstation-upcoming,
+.xbox-upcoming {
     border: 2px groove #fafafa;
 }
 
