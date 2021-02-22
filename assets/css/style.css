@@ -311,3 +311,7 @@ form {
     padding-top: 45px;
     text-align: center;
 }
+
+.favourite-games h4 {
+    border: 2px groove #fafafa;
+}
