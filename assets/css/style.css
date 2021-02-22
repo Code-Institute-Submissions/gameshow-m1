@@ -317,7 +317,8 @@ form {
     border: 2px groove #fafafa;
 }
 
-.graphics-text {
+.graphics-text,
+.graphics-bar {
     color: #fafafa;
     background-color: rgb(55, 114, 31);
 }
@@ -346,3 +347,4 @@ form {
     color: #fafafa;
     background-color: rgb(161, 6, 149);
 }
+
