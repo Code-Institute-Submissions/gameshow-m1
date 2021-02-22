@@ -306,7 +306,8 @@ form {
 }
 
 /*---Favourite games---*/
-.scoring-heading {
+.scoring-heading,
+.ranking-heading {
     color: #fafafa;
     padding-top: 45px;
     text-align: center;
