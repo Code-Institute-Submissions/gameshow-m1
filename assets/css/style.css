@@ -321,6 +321,11 @@ form {
     border: 2px groove #fafafa;
     margin-left: 5px;
     margin-right: 5px;
+    color: #fafafa;
+}
+
+.rank-number-text {
+    vertical-align: middle;
 }
 
 .graphics-text,
