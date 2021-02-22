@@ -26,7 +26,8 @@ footer {
 }
 
 .streams-playing,
-.upcoming-games {
+.upcoming-games,
+.favourite-games {
     background: linear-gradient(180deg, #000000, #686767fa);
 }
 
@@ -302,4 +303,11 @@ form {
     width: 80px;
     height: 80px;
     border-radius: 50%;
+}
+
+/*---Favourite games---*/
+.scoring-heading {
+    color: #fafafa;
+    padding-top: 45px;
+    text-align: center;
 }
