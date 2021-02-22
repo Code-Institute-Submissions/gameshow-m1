@@ -315,3 +315,33 @@ form {
 .favourite-games h4 {
     border: 2px groove #fafafa;
 }
+
+.graphics-text {
+    color: #fafafa;
+    background-color: rgb(55, 114, 31);
+}
+
+.fun-text {
+    color: #fafafa;
+    background-color: rgb(32, 31, 114);
+}
+
+.soundtrack-text {
+    color: #fafafa;
+    background-color: rgb(209, 29, 29);
+}
+
+.storyline-text {
+    color: #fafafa;
+    background-color: rgb(129, 121, 12);
+}
+
+.originality-text {
+    color: #fafafa;
+    background-color: rgb(7, 93, 133);
+}
+
+.depth-text {
+    color: #fafafa;
+    background-color: rgb(161, 6, 149);
+}
