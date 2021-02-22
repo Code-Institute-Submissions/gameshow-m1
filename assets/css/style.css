@@ -317,6 +317,12 @@ form {
     border: 2px groove #fafafa;
 }
 
+.top-ten-section-style {
+    border: 2px groove #fafafa;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
 .graphics-text,
 .graphics-bar {
     color: #fafafa;
