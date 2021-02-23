@@ -23,8 +23,9 @@ The site is designed to be responsive and accessible across all device sizes, al
    3.	Structure plane
    4.	Skeleton plane
    5.	Surface plane
-*	Who/ What/ How
-*	User stories
+   
+  *	Who/ What/ How
+  *	User stories
 
 
 ## Site Owner and Product/Business Goals
@@ -140,3 +141,19 @@ Question |	Response for site design
 What is the visual language? |	Colour as per gaming norms, layout is sparse but informative, Fonts as per media display standard, images are clear and pop to the user
 What is the economy? |	The most important user/owner elements are easily recognised
 Readability and consistency |	Using contrasting styles and font structure, consistent across the site
+
+### _Who/ What/ How_
+**Who is it for?** Fans of the gamers online streaming channel
+
+**What is it for?** A hub of all the activity related to their channel along with add-ons such as recommending a game, or getting in touch
+
+**How will it achieve this?** By presenting my upcoming streams/games/future games on a mobile-friendly responsive site for fans to peruse
+
+### _User Stories_
+There has been a massive increase in professional game streamers on Twitch & YouTube over the past few years. Whilst technology has aided this, very few streamers provide information on games they are currently playing or when their next stream will be. Twitch & YouTube do not notify fans of a channel when the next stream will be, and there is a chance I will miss it.
+Hence, I want a site independent of the streaming platforms where I can easily:
+1.	See what my favourite streamer is playing
+2.	See when the next stream is 
+3.	See what their thoughts are regarding their favourite games 
+4.	Recommend a game I think the streamer would be fun playing, I want to be able to recommend this without simply commenting on YouTube
+5.	Follow the site links easily
