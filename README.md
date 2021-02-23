@@ -11,10 +11,10 @@ The aim of this site is to allow the streamers’ fans to follow all the great u
 
 The site is designed to be responsive and accessible across all device sizes, allowing easy navigation for fans or potential fans.
 
-### Table of Contents
+## Table of Contents
 Site Owner and Product/Business Goals
 
-#### Site Owner and Product/Business Goals
+## Site Owner and Product/Business Goals
 As the site owner, the website is to act as the intermediary for my game streaming channel for all my fans, allowing them to:
 * View the dates & times of upcoming streams
 * See what I’m currently playing
