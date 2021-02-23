@@ -97,3 +97,15 @@ Discuss my favourite games of all time |	3 |	4
 Have a community login and message board |	2 |	1
 Streaming & Social links |	5 |	5
 How the site users can get in touch to recommend a game |	5 |	5
+
+#### Scope Plane
+What's in? |	What's out?
+-------- | ---------
+Central hub for streaming dates | Live streaming from the webpage
+Games I am currently playing |	Community login and message boards
+Upcoming game information	
+Favourite all time games	
+Footer information – social and platform streaming	
+A modal to get in touch	
+Mixed content of images and text with varying formats	
+“Gaming” style layout and visual	
