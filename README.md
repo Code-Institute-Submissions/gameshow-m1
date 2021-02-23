@@ -169,8 +169,8 @@ Hence, I want a site independent of the streaming platforms where I can easily:
 5.	Follow the site links easily
 
 ## Design Features
-#### Wireframes
 
+#### Wireframes
 * Desktop wireframe - attach
 * Tablet wireframe - attach
 * Mobile wireframe - attach
@@ -181,3 +181,29 @@ Poppins is used as the main font on the site, as imported through Google Fonts. 
 _“Poppins is a geometric sans-serif font. It is very attractive and can be widely used in business card design, news media, posters, PPT files, film, television production and content display. Poppins is featured in more than 4,000,000 websites.”_
 
 Given the display nature of this description and the look of the font’s “gaming” feel, I decided to use this throughout the project.
+
+#### Colour Scheme
+The main colours used on the site are black and white:
+* #000000
+*	#fafafa
+* with a linear-gradient background that rotates from top to bottom (and vice versa depending on the section using a version of this white) (#686767fa, #000000)
+
+The reason for this is to achieve a “glass” effect on the icons and text presented, making them pop more to the screen reader. 
+Further, the background also blends from jet black to slightly grey in a bottom direction, allowing seamless blending to the layout of the site.
+
+According to [designwebkit](https://designwebkit.com/design/gaming-website-templates-professional-tips-build-game-website/#:~:text=As%20you%20may%20notice%2C%20most,brown%2C%20grey%2C%20and%20khaki.):
+
+_“Most popular gaming websites use dark colour scheme for their websites to create a mystic and engaging ambiance. The most popular colours for such websites are black, brown, grey, and khaki”._
+
+Adaptive colour scheme is presented for the console icons and social links.
+
+Console icons:
+* [Playstation](http://www.brandgradients.com/playstation-colors/)
+* [Xbox](https://www.designpieces.com/palette/xbox-one-colour-palette-hex-rgb/)
+*	[Nintendo Switch](https://www.designpieces.com/palette/nintendo-switch-brand-colours-hex-and-rgb/)
+
+Social links:
+* [Instagram](http://www.brandgradients.com/instagram-colors/)
+*	[Youtube](https://brandpalettes.com/youtube-color-codes/)
+*	[Twitter](https://brandpalettes.com/twitter-colors/)
+*	[Twitch](https://www.designpieces.com/palette/twitch-color-palette-hex-and-rgb/)
