@@ -52,4 +52,9 @@ As a first-time visitor of the site, I want:
 8. Find the streamers social media channels
 9. The colours, layout and feel of the site to be of a gaming nature as part of cultural appropriation
 
+## Returning and Frequent Visitor Goals
+As a returning/frequent visitor of the site, I want:
+
+1. Updated information on when the next stream will be/ what the streamer is currently playing
+2. To keep track of any new upcoming games the streamer is talking about
 
