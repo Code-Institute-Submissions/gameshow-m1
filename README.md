@@ -207,3 +207,13 @@ Social links:
 *	[Youtube](https://brandpalettes.com/youtube-color-codes/)
 *	[Twitter](https://brandpalettes.com/twitter-colors/)
 *	[Twitch](https://www.designpieces.com/palette/twitch-color-palette-hex-and-rgb/)
+
+The colour schemes presented on the shadowing of the gamer card icons are purely shadowing the colour of the main icon.
+The progress bars colouring is linked between the categories they respresent and the top 5 games to ensure consistency and layout design.
+
+#### Imagery
+The site uses a hero image on the landing page to convey a dark gaming ambience that is not overpowering to the site user. 
+For each game noted on the site, circled “cards” are conveyed along with the text information. The contrast between these cards and the colour scheme allow the images to pop to the user with no foreground/background distraction.
+Social media and console icons are presented in both the footer and the modal, again providing contrast between the icons and the background.
+Horizontal bars are presented for the ratings section with a clear contrast display to the user.
+
