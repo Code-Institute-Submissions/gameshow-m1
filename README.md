@@ -280,3 +280,13 @@ The following characteristics per the article are manipulated (article narrative
 
 User Goal | Feature(s)/ Content in response | Goal Met?
 -------- | --------- | --------
+(1)|	Colour/Font/Layout structure. Responsive navigation elements. Clear call to action.|	Yes
+(2)|	Landing page image and provided text|	Yes
+(3)|	Streams calendar/Upcoming games presented through the site|	Yes
+(4)|	Colour/Font/Layout structure|	Yes
+(5)|	Responsive navigation elements. Relative footer links the user is requesting|	Yes
+(6)|	Colour/Font/Layout structure. Use of spacing and dynamic colour contrast.|	Yes
+(7)|	Modal form in navigation & footer. Social links in the footer. Responsive call to action.|	Yes
+(8)|	Social links in the footer|	Yes
+(9)|	“Funky pop” effect between background & foreground text. Blended background colouring.|	Yes
+
