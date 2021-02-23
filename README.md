@@ -85,3 +85,15 @@ Who is my target audience? |	Followers of my online video game streaming service
 What functions do I perform? |	Online streaming of video games, game reviews
 Product considerations |	No overload of content on the website by using large images and visually appealing layout. The modal is to be clear and present for the user to submit streaming recommendations. Navigation must be easy across all devices
 
+##### Strategy feasibility scoping
+Opportunity |	Importance |	Feasibility
+-------- | --------- | -----------
+Create a hub for streaming online presence |	5 |	5
+Stream live from the website rather than the streaming platforms |	2 |	1
+Showcase upcoming streams |	5 |	4
+Showcase currently playing games |	5 |	4
+Discuss games I’m excited to talk about |	4 |	4
+Discuss my favourite games of all time |	3 |	4
+Have a community login and message board |	2 |	1
+Streaming & Social links |	5 |	5
+How the site users can get in touch to recommend a game |	5 |	5
