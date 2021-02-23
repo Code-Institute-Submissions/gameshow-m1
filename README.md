@@ -239,27 +239,31 @@ The following characteristics per the article are manipulated (article narrative
 * The navigation displays a “call to action” for the user to allow them to recommend a game on a multi-choice gaming platform
 * A state change is implemented on the site as they navigate through it through the use of “active” sheet
 
-#### Colours & Fonts
+##### Colours & Fonts
 * Background colour is set using a “shading effect”, displaying a futuristic and blended approach from jet black to light grey
 * Font colour is set in contrast to the background as white. This gives the affect of user-friendly-readability and gives the “pop” sensation of text overlapping the dark background
 *	Social icons and gaming platform icons are set as per their respective icons on their websites, displaying to the user the visual norm they are used to on these sites
 *	The game cards have a shading applied to give an extra emphasis on the colouring in contrast with the background
 *	Poppins is used as the playful “funky” text of choice for the site, providing a rich texture of gaming-esque style of display along with professional contrast colouring
 
-#### Landing page background image and text
+##### Landing page background image and text
 *	The image in the background of the landing page is of a streaming nature, appealing to the users feelings of a professional game design. The colouring of this is shaded and blended into the non-image section of the site
 *	The text overlaying the background conveys to the user what the site is designed for
 *	The three action cards overlaying the background highlight the sites function in minimal words. This is common in gaming sites as taglines need to be short and memorable
 
-#### Footer
+##### Footer
 *	The “Let Me Know” section generates a “call to action” once again to the user to get in touch, invoking a personable touch rather than a streaming comments section. The form is intentionally kept simple and allows the user to recommend a game/platform in the smallest number of clicks. Once submitted, the feature of a “Thank You, Happy Gaming!” lets the user know the process was successful.
 *	The “Add My Gamer Handle” allows the user to easily add the streamer as a friend online in the gaming world
 *	The “Social Links” allows the user to follow the streamer on multiple social platforms
 
-#### Game icons
+##### Game icons
 *	The game icons throughout the site and their respective shading provide the “pop” effect that stand out massively to the user. The display/shading/colouring/clarity of these icons are bigger in size and allow the user to notice them easily
 
-#### Layout
+##### Layout
 *	All the site’s pages are structured visually (font/colouring/areas) consistently throughout, creating a common theme for the users of the site. The hierarchy presented tells the user extremely quickly where to look on a page and how to navigate the site.
 *	“Pop” effect colouring is used on both game icons and review content areas to stand out to the user in a visually appealing sense
 
+#### Features left to implement
+*	Automatically updated streaming information
+*	Member login and chat rooms between user and streamer
+*	Live streaming from the website
