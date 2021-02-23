@@ -32,3 +32,24 @@ The site is to achieve the following goals:
 5. Creates a positive experience for the user using gaming colour, imagery and layout
 6. To display the content in a culturally appropriate attested to the audience it is aimed at
 
+## Developer goals
+As the developer, the site is to achieve the following goals:
+
+1. Mar the goals of the site owner and user together
+2. Create a positive experience for both parties using the specifications required by both parties
+3. Achieve responsive design across all devices
+
+## First-Time Visitor Goals
+As a first-time visitor of the site, I want:
+
+1. My impression of the site to be a positive experience
+2. To understand the main purpose of the site
+3. To provide relevant content related to game streaming and upcoming games
+4. A clear and unambiguous layout
+5. Easy navigation of the site
+6. To understand the information on the site clearly
+7. To suggest a game or get in touch very easily
+8. Find the streamers social media channels
+9. The colours, layout and feel of the site to be of a gaming nature as part of cultural appropriation
+
+
