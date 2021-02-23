@@ -363,3 +363,9 @@ form {
     background-color: rgb(230, 55, 215);
 }
 
+@media screen and (max-width:380px) {
+    .top-five-section-style p {
+        font-size: 11px;
+    }
+}
+
