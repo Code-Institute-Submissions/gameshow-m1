@@ -106,6 +106,21 @@ Games I am currently playing |	Community login and message boards
 Upcoming game information	
 Favourite all time games	
 Footer information – social and platform streaming	
-A modal to get in touch	
+A modal form to get in touch	
 Mixed content of images and text with varying formats	
-“Gaming” style layout and visual	
+“Gaming” style layout and visual
+
+#### Structure Plane
+Question |	Response for site design
+-------- | ---------
+How do I navigate easily? |	Links in the header along with responsive burger icon for mobile devices
+How is the information presented? |	Using gaming style colours/features and minimal text content that allow the user to achieve their goals. Dark background with white text/colourful icons to create the “funky” gaming experience
+How does the user get in touch? |	Social links and streaming links provided in the footer
+How does the user recommend a game to me? |	Using the form modal at both the bottom and top of each page (top of page depends on responsive design)
+State changes |	The heading links will be displayed in a different “active” state when on the appropriate page, as well as using a hover function
+Is the site consistent? |	Correct styling and font is applied throughout the site
+Is the site predictable? |	All pages of the site follow the same structure for responsive design
+Is the site appropriately visible? |	Correct styling colours to be applied between background and foreground
+How does the user know their game recommendations have been sent? |	On the form, the submit changes to “Submitted” along with a “Thank you, Happy Gaming!”
+User error – what if it happens? |	Providing information to the user if this happens, and how to safely navigate back to the home page
+Information architecture |	Using the tree structure with no more than 3 clicks for the user to reach a destination
