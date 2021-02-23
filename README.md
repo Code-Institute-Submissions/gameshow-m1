@@ -133,3 +133,10 @@ How will I present the content? |	Following industry norms of the header -> cont
 How do I show relevant content? |	By making the content audience appropriate as defined by the site user goals. By using representational icons the user is familiar with in the gaming world
 How do I make the experience a positive one? |	By providing images, styling a layout structure as per the gaming industry. For all icons, ensure they confirm to industry norms i.e. gaming cards seen by gamers. Allow immediate interaction using the call to action modal
 How do I structure the features and usability? |	By keeping the landing page structure and shape/ styles/ fonts consistent across all of the web pages. By using navigation to spread the information across different web pages, linked through the navigation bar at the top
+
+#### Surface Plane
+Question |	Response for site design
+-------- | ---------
+What is the visual language? |	Colour as per gaming norms, layout is sparse but informative, Fonts as per media display standard, images are clear and pop to the user
+What is the economy? |	The most important user/owner elements are easily recognised
+Readability and consistency |	Using contrasting styles and font structure, consistent across the site
