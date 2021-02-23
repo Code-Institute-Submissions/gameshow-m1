@@ -27,6 +27,16 @@ The site is designed to be responsive and accessible across all device sizes, al
   *	Who/ What/ How
   *	User stories
 
+* Design Features
+  1. Wireframes
+  2.	Typography
+  3.	Colour scheme
+  4.	Imagery
+  5.	Visual Hierarchy
+  6.	Features implemented
+  7.	Features left to implement
+
+
 
 ## Site Owner and Product/Business Goals
 As the site owner, the website is to act as the intermediary for my game streaming channel for all my fans, allowing them to:
@@ -157,3 +167,17 @@ Hence, I want a site independent of the streaming platforms where I can easily:
 3.	See what their thoughts are regarding their favourite games 
 4.	Recommend a game I think the streamer would be fun playing, I want to be able to recommend this without simply commenting on YouTube
 5.	Follow the site links easily
+
+## Design Features
+#### Wireframes
+
+* Desktop wireframe - attach
+* Tablet wireframe - attach
+* Mobile wireframe - attach
+
+#### Typography
+Poppins is used as the main font on the site, as imported through Google Fonts. Sans-serif is used as the fallback font. According to an article on [mock plus](https://www.mockplus.com/blog/post/google-web-fonts):
+
+_“Poppins is a geometric sans-serif font. It is very attractive and can be widely used in business card design, news media, posters, PPT files, film, television production and content display. Poppins is featured in more than 4,000,000 websites.”_
+
+Given the display nature of this description and the look of the font’s “gaming” feel, I decided to use this throughout the project.
