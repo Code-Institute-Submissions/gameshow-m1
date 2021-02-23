@@ -18,11 +18,11 @@ The site is designed to be responsive and accessible across all device sizes, al
 * Returning and Frequent Visitor Goals
 * User Experience (UX)
   * The 5 planes of User Experience – Decisions and Reasons
-   1.	Strategy plane
-   2.	Scope plane
-   3.	Structure plane
-   4.	Skeleton plane
-   5.	Surface plane
+    1.	Strategy plane
+    2.	Scope plane
+    3.	Structure plane
+    4.	Skeleton plane
+    5.	Surface plane
    
   *	Who/ What/ How
   *	User stories
@@ -35,6 +35,12 @@ The site is designed to be responsive and accessible across all device sizes, al
   5.	Visual Hierarchy
   6.	Features implemented
   7.	Features left to implement
+
+* Design & UX – How do they come together?
+  * User goals
+  * Site owner goals
+  * Designer goals
+
 
 
 
@@ -267,3 +273,10 @@ The following characteristics per the article are manipulated (article narrative
 *	Automatically updated streaming information
 *	Member login and chat rooms between user and streamer
 *	Live streaming from the website
+
+## Design & UX – How do they come together?
+
+### User goals
+
+User Goal | Feature(s)/ Content in response | Goal Met?
+-------- | --------- | --------
