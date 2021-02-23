@@ -60,7 +60,7 @@ footer {
     background: #b9a3e3;
 }
 
-/*---Gaming Card colouring---*/
+/*---Gaming Card shadow effect---*/
 .sims-image {
     box-shadow: 0px 0px 20px rgba(25, 212, 25, 0.877);
 }
@@ -363,6 +363,7 @@ form {
     background-color: rgb(230, 55, 215);
 }
 
+/*---Media Queries---*/
 @media screen and (max-width:380px) {
     .top-five-section-style p {
         font-size: 11px;
