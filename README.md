@@ -16,9 +16,19 @@ Site Owner and Product/Business Goals
 
 #### Site Owner and Product/Business Goals
 As the site owner, the website is to act as the intermediary for my game streaming channel for all my fans, allowing them to:
-* Access the dates & times of upcoming streams
+* View the dates & times of upcoming streams
 * See what I’m currently playing
 * Get excited about new gaming releases
 * Agree or disagree with my favourite games of all time
 * Suggest a video for me to stream
 * Get in touch with me via social media
+
+The site is to achieve the following goals:
+
+1. The site is presented in an efficient and authentic way so that the users can navigate quickly to the section they are interested in
+2. The information on the site is displayed clearly and contain all the information necessary for the user to possibly take part in one of its events
+3. Given that this is a social hub, the site users must be able to recommend a video via a form or by getting on touch via social links.
+4. Is responsive on all device sizes
+5. Creates a positive experience for the user using gaming colour, imagery and layout
+6. To display the content in a culturally appropriate attested to the audience it is aimed at
+
