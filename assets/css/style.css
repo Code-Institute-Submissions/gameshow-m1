@@ -364,7 +364,7 @@ form {
 }
 
 /*---Media Queries---*/
-@media screen and (max-width:380px) {
+@media screen and (max-width:412px) {
     .top-five-section-style p {
         font-size: 11px;
     }
