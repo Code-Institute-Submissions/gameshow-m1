@@ -124,3 +124,12 @@ Is the site appropriately visible? |	Correct styling colours to be applied betwe
 How does the user know their game recommendations have been sent? |	On the form, the submit changes to “Submitted” along with a “Thank you, Happy Gaming!”
 User error – what if it happens? |	Providing information to the user if this happens, and how to safely navigate back to the home page
 Information architecture |	Using the tree structure with no more than 3 clicks for the user to reach a destination
+
+#### Skeleton Plane
+Question |	Response for site design
+-------- | ---------
+How will the users get around? |	Easy navigation for the user using links where appropriately normed including call to action for game recommendations. Improve cognitive experience for the user by pinning the navigation to the top of the screen as the user scrolls
+How will I present the content? |	Following industry norms of the header -> content -> footer approach across all pages
+How do I show relevant content? |	By making the content audience appropriate as defined by the site user goals. By using representational icons the user is familiar with in the gaming world
+How do I make the experience a positive one? |	By providing images, styling a layout structure as per the gaming industry. For all icons, ensure they confirm to industry norms i.e. gaming cards seen by gamers. Allow immediate interaction using the call to action modal
+How do I structure the features and usability? |	By keeping the landing page structure and shape/ styles/ fonts consistent across all of the web pages. By using navigation to spread the information across different web pages, linked through the navigation bar at the top
