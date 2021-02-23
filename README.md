@@ -290,3 +290,21 @@ User Goal | Feature(s)/ Content in response | Goal Met?
 (8)|	Social links in the footer|	Yes
 (9)|	“Funky pop” effect between background & foreground text. Blended background colouring.|	Yes
 
+### Site owner goals
+
+User Goal | Feature(s)/ Content in response | Goal Met?
+-------- | --------- | --------
+(1)|	Responsive navigation elements with appropriate titles. Clear call to action.|	Yes
+(2)|	Colour/Font/Layout structure. Modal form in navigation & footer. Social links in the footer. Responsive call to action.|	Yes
+(3)|	Modal form in navigation & footer|	Yes
+(4)|	Mobile responsive design built-in using Bootstrap. Navigation toggler present on mobile.|	Yes
+(5)|	Colour/Font/Layout structure|	Yes
+(6)|	“Funky pop” effect between background & foreground text. Blended background colouring.|	Yes
+
+### Designer goals
+
+User Goal | Feature(s)/ Content in response | Goal Met?
+-------- | --------- | --------
+(1)|	Noted above.|	Yes
+(2)|	Noted above.|	Yes
+(3)|	Noted above.|	Yes
