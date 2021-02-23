@@ -217,3 +217,16 @@ For each game noted on the site, circled “cards” are conveyed along with the
 Social media and console icons are presented in both the footer and the modal, again providing contrast between the icons and the background.
 Horizontal bars are presented for the ratings section with a clear contrast display to the user.
 
+#### Visual Hierarchy
+According to the following article on [Visual Hierarchy](https://www.interaction-design.org/literature/topics/visual-hierarchy):
+
+“Visual hierarchy controls the delivery of the experience. If you have a hard time figuring out where to look on a page, it’s more than likely that its layout is missing a clear visual hierarchy.”
+
+The following characteristics per the article are manipulated (article narrative in bold, developer response in italic):
+* __Size – Users notice larger elements more easily.__ _Large glass cards provide a pop effect to the user_
+* __Colour – Bright colours typically attract more attention than muted ones.__ _The contrast between black background and white text attracts the user the read the text more visibly. The shadow effect around the gaming cards along with the background blending creates a solid contrast to the information presented_
+* __Contrast – Dramatically contrasted colours are more eye-catching.__ _As noted above_
+* __Repetition – Repeating styles can suggest content is related.__ _The style is repetitive – information for the user follow the same pattern_
+*	__Proximity – Closely placed elements seem related.__ _Content is grouped based on spacing for user readability sectioning_
+*	__Whitespace – More space around elements draws the eye towards them.__ _Spacing is used effectively according to the hub needs of the product goals_
+*	__Texture and Style – Richer textures stand out over flat ones.__ _As noted in the typography section_
