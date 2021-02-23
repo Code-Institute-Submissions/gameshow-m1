@@ -12,7 +12,20 @@ The aim of this site is to allow the streamers’ fans to follow all the great u
 The site is designed to be responsive and accessible across all device sizes, allowing easy navigation for fans or potential fans.
 
 ## Table of Contents
-Site Owner and Product/Business Goals
+* Site Owner and Product/Business Goals
+* Developer goals
+* First Time Visitor Goals
+* Returning and Frequent Visitor Goals
+* User Experience (UX)
+  * The 5 planes of User Experience – Decisions and Reasons
+   1.	Strategy plane
+   2.	Scope plane
+   3.	Structure plane
+   4.	Skeleton plane
+   5.	Surface plane
+*	Who/ What/ How
+*	User stories
+
 
 ## Site Owner and Product/Business Goals
 As the site owner, the website is to act as the intermediary for my game streaming channel for all my fans, allowing them to:
@@ -57,4 +70,18 @@ As a returning/frequent visitor of the site, I want:
 
 1. Updated information on when the next stream will be/ what the streamer is currently playing
 2. To keep track of any new upcoming games the streamer is talking about
+
+## User Experience (UX)
+### _The 5 planes of User Experience – Decisions and Reasons_
+#### Strategy Plane
+
+Question |	Response for site design
+-------- | ---------
+Is the content culturally appropriate? |	Design is based on the gaming community as a whole in terms of UX design
+Is the content relevant? |	Acting as a hub for the streamer, only relevant content is to be displayed to the user
+Can we provide content in an intuitive way? |	The sites users are familiar with gaming site styles, layouts and content and as such expect this
+Is the technology appropriate? |	As above, site style and layout are as per industry gaming websites
+Who is my target audience? |	Followers of my online video game streaming service
+What functions do I perform? |	Online streaming of video games, game reviews
+Product considerations |	No overload of content on the website by using large images and visually appealing layout. The modal is to be clear and present for the user to submit streaming recommendations. Navigation must be easy across all devices
 
