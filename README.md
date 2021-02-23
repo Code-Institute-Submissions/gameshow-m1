@@ -41,6 +41,11 @@ The site is designed to be responsive and accessible across all device sizes, al
   * Site owner goals
   * Designer goals
 
+* Technology and Languages used
+  *	Languages
+  *	Frameworks, Libraries and Programmes
+
+
 
 
 
@@ -81,6 +86,7 @@ As a first-time visitor of the site, I want:
 7. To suggest a game or get in touch very easily
 8. Find the streamers social media channels
 9. The colours, layout and feel of the site to be of a gaming nature as part of cultural appropriation
+10. To see the top all time games of the streaming and the method of rating
 
 ## Returning and Frequent Visitor Goals
 As a returning/frequent visitor of the site, I want:
@@ -289,6 +295,7 @@ User Goal | Feature(s)/ Content in response | Goal Met?
 (7)|	Modal form in navigation & footer. Social links in the footer. Responsive call to action.|	Yes
 (8)|	Social links in the footer|	Yes
 (9)|	“Funky pop” effect between background & foreground text. Blended background colouring.|	Yes
+(10)| Progress bars added with the corresponding category rater above it for top 5 games.| Yes
 
 ### Site owner goals
 
@@ -308,3 +315,33 @@ User Goal | Feature(s)/ Content in response | Goal Met?
 (1)|	Noted above.|	Yes
 (2)|	Noted above.|	Yes
 (3)|	Noted above.|	Yes
+
+## Technology and Languages used
+
+### Languages
+
+*	[HTML5](https://en.wikipedia.org/wiki/HTML5)
+*	[CSS3](https://en.wikipedia.org/wiki/CSS)
+
+### Frameworks, Libraries and Programmes
+
+[jQuery](https://jquery.com/)
+Used as part of responsive navigation design for mobile devices
+
+[Font Awesome](https://fontawesome.com/)
+Used to create the streaming platform icons, the social site icons and the console icons
+
+[GitHub](https://github.com/)
+Used to store projects code upon Git push
+
+[Git](https://en.wikipedia.org/wiki/Git)
+Used for version control through the Gitpod terminal and the Git add/commit/push action sequence
+
+[Microsoft Word](https://www.microsoft.com/en-ie/microsoft-365/word)
+Used for designing of the wireframes as I am completing this project on my work laptop with no access to Balsamiq
+
+[Bootstrap 4.1](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+Bootstrap was used to aid in the responsive of the design of the site across device sizes. It also brought the need down for CSS styling, although custom styling was appropriately included when the outcome of that design was better than the default Bootstrap design
+
+[Google fonts](https://fonts.google.com/)
+Used to add Poppins and related font weights to the css style file using the @import url function. To improve site load times, this file is loaded into the head element of the HTML pages and backed up by using sans-serif in CSS.
