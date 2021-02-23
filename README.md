@@ -66,6 +66,7 @@ The site is to achieve the following goals:
 4. Is responsive on all device sizes
 5. Creates a positive experience for the user using gaming colour, imagery and layout
 6. To display the content in a culturally appropriate attested to the audience it is aimed at
+7. Displays the following content across various pages - currently playing/upcoming streams/upcoming 3 games by console/ top 5 all time
 
 ## Developer goals
 As the developer, the site is to achieve the following goals:
@@ -307,6 +308,7 @@ User Goal | Feature(s)/ Content in response | Goal Met?
 (4)|	Mobile responsive design built-in using Bootstrap. Navigation toggler present on mobile.|	Yes
 (5)|	Colour/Font/Layout structure|	Yes
 (6)|	“Funky pop” effect between background & foreground text. Blended background colouring.|	Yes
+(7)| Content is split across 3 landing pages. Content is layed out appropriately as per site owner goal.| Yes
 
 ### Designer goals
 
