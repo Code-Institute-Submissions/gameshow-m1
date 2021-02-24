@@ -517,9 +517,11 @@ Click [Here](https://docs.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
+* [Bootstrap 4.1](https://getbootstrap.com/docs/4.1/getting-started/introduction/):  Bootstrap library used throughout the project to make site responsive using the Bootstrap Grid System. Modal/Button/Table design are also used from this library and are documented as such.
 
+* Responsive table design sourced from the following [link](https://stackoverflow.com/questions/38208901/bootstrap-table-hide-column-in-mobile-view)
 
-
+* Text no-wrapping in table sourced from the following [link](https://www.geeksforgeeks.org/how-to-prevent-text-in-a-table-cell-from-wrapping-using-css/)
 
 ### Acknowledgements
 
