@@ -98,7 +98,7 @@ As a first-time visitor of the site, I want:
 
 1. My impression of the site to be a positive experience
 2. To understand the main purpose of the site
-3. To provide relevant content related to game streaming and upcoming games
+3. To see relevant content related to game streaming and upcoming games
 4. A clear and unambiguous layout
 5. Easy navigation of the site
 6. To understand the information on the site clearly
@@ -372,11 +372,13 @@ Used to add Poppins and related font weights to the css style file using the @im
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 [W3C Markup Validator](https://validator.w3.org/) - Results
+
 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - Results
 
 ### Accessibility Testing
 
 [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) and [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) were used to test the site's accessibility.
+
 Issues arose during testing-->
 Shown issues were updated for with the following scores.
 
@@ -389,3 +391,46 @@ No known issues were found.
 AAAAAAAAAAAAA
 
 ### Testing User Stories from User Experience (UX) Section
+
+#### First-Time Visitor Goals
+As a first-time visitor of the site, I want:
+
+1. _My impression of the site to be a positive experience_
+  * Colour/Font/Layout structure of the site gives a pop effect to the user whilst maintaining site hierarchy
+  * Responsive navigation elements that are pinned on the user scroll
+  * Clear call to action present by using a modal for recommending games
+2. _To understand the main purpose of the site_
+  * Clear landing page text and pages labelled appropriately
+  * Sections spaced and coloured effectively to draw the user into the content
+  * Minimalistic design with gamer-esque colouring/shadowing
+3. _To see relevant content related to game streaming and upcoming games_
+  * Streaming dates/games/platform/time and currently playing games on main landing page for user
+4. _A clear and unambiguous layout_
+  * Colour/Font/Layout structure of the site designed with a "gamer" user in mind
+  * Only gaming/social content displayed
+5. _Easy navigation of the site_
+  * User can use the navbar at the top of all pages, and does not need to click "back" on their browser
+  * Burger icon used on mobile devices for responsive design
+6. _To understand the information on the site clearly_
+  * Colour/Font/Layout structure used effectively 
+  * Use of spacing and dynamic colour contrast.
+7. _To suggest a game or get in touch very easily_
+ * Modal form in navigation & footer so the user can complete
+ * Social links appropriately labelled/coloured in the footer 
+ * Responsive call to action for the user to get in touch very easily
+8. _Find the streamers social media channels_
+ * Social links appropriately labelled/coloured in the footer 
+9. _The colours, layout and feel of the site to be of a gaming nature as part of cultural appropriation_
+ * “Funky pop” effect between background & foreground text
+ * Blended background colouring throughout the site and blended depending on position so it feels a "smooth" transition from top to bottom
+10. _To see the top all time games of the streaming and the method of rating_
+  * Page dedicated purly to all time games
+  * Clear display of scoring categories with coloured labels that correspond to the scoring bars for each game
+
+#### Returning and Frequent Visitor Goals
+As a returning/frequent visitor of the site, I want:
+
+1. _Updated information on when the next stream will be/ what the streamer is currently playing_
+  * Information is displayed on the main landing page
+2. _To keep track of any new upcoming games the streamer is talking about_
+  * Information is displayed on the main landing page/ "to watch" page for upcoming console releases
