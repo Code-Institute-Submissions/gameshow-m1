@@ -160,7 +160,7 @@ State changes |	The heading links will be displayed in a different “active” 
 Is the site consistent? |	Correct styling and font is applied throughout the site
 Is the site predictable? |	All pages of the site follow the same structure for responsive design
 Is the site appropriately visible? |	Correct styling colours to be applied between background and foreground
-How does the user know their game recommendations have been sent? |	On the form, the submit changes to “Submitted” along with a “Thank you, Happy Gaming!”
+How does the user know their game recommendations have been sent? |	On the form, the submit colour changes to orange
 User error – what if it happens? |	Providing information to the user if this happens, and how to safely navigate back to the home page
 Information architecture |	Using the tree structure with no more than 3 clicks for the user to reach a destination
 
@@ -280,7 +280,7 @@ The following characteristics per the article are manipulated (article narrative
 *	The three action cards overlaying the background highlight the sites function in minimal words. This is common in gaming sites as taglines need to be short and memorable
 
 ##### Footer
-*	The “Let Me Know” section generates a “call to action” once again to the user to get in touch, invoking a personable touch rather than a streaming comments section. The form is intentionally kept simple and allows the user to recommend a game/platform in the smallest number of clicks. Once submitted, the feature of a “Thank You, Happy Gaming!” lets the user know the process was successful.
+*	The “Let Me Know” section generates a “call to action” once again to the user to get in touch, invoking a personable touch rather than a streaming comments section. The form is intentionally kept simple and allows the user to recommend a game/platform in the smallest number of clicks. Once submitted, colour submit button changes on successful submission.
 *	The “Add My Gamer Handle” allows the user to easily add the streamer as a friend online in the gaming world
 *	The “Social Links” allows the user to follow the streamer on multiple social platforms
 
