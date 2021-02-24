@@ -64,9 +64,6 @@ The site is designed to be responsive and accessible across all device sizes, al
   * Acknowledgements
 
 
-
-
-
 ## Site Owner and Product/Business Goals
 As the site owner, the website is to act as the intermediary for my game streaming channel for all my fans, allowing them to:
 * View the dates & times of upcoming streams
@@ -471,3 +468,60 @@ By forking the GitHub Repository, we make a copy of the original repository on o
 7. Press Enter. Your local clone will be created.
  
 Click [Here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+
+## Credits
+
+### Content
+
+* [Code Institute](https://codeinstitute.net/): Their sample [README.md](https://github.com/Code-Institute-Solutions/SampleREADME) was used as a design guide for my ReadMe file.
+* [Markdown help](https://guides.github.com/features/mastering-markdown/#) for this ReadMe documentation.
+* Content and layout was inspired by this YouTube streamer, [DevelopedByEd](https://www.youtube.com/c/DevEd/featured). The idea for the glass cards icons came from his [YouTube video](https://www.youtube.com/watch?v=O7WbVj5apxU) and linked [repository](https://github.com/developedbyed/glass-website).
+
+### Media
+
+#### Hero image
+
+* Hero image on landing page: source of the hero image is located [here](https://www.pexels.com/photo/gray-scale-image-of-xbox-game-controller-194511/) from Pexels.com. Credit to [Lalesh](https://www.pexels.com/@lanophotography) for use of this image.
+
+#### Card images
+
+##### Games to watch icons - sources
+
+*	[Baldo](https://www.rpgsite.net/games/1460-baldo)
+*	[Beyond](https://www.deviantart.com/blagoicons/art/Beyond-Good-and-Evil-Icon-656378490) and [Designer](https://www.deviantart.com/blagoicons)
+*	[Dyling light](https://www.deviantart.com/hazzbrogaming/art/Icon-Dying-Light-2-815163171) and [Designer](https://www.deviantart.com/hazzbrogaming)
+*	[Eastward](https://www.rpgsite.net/games/1143-eastward)
+*	[Halo](https://lookingforclan.com/games/halo-infinite)
+*	[Harvest Moon](https://www.deviantart.com/ignessie/art/Harvest-Moon-Seasons-Greetings-Logo-291461074) and [Designer](https://www.deviantart.com/ignessie)
+*	[Outriders](https://twitter.com/outriders?lang=es)
+*	[Rachet & Clank](https://www.deviantart.com/troublem4ker/art/Ratchet-and-Clank-Icon-658044192) and [Designer](https://www.deviantart.com/troublem4ker)
+*	[Resident Evil](https://www.pinterest.com/pin/794533559248100974/)
+
+##### Currently playing/ upcoming streams icons - sources
+
+*	[Assassins creed](https://apprecs.com/ios/1109721091/hd-wallpapers-assassins-creed-edition)
+*	[Cyberpunk](https://www.deviantart.com/blagoicons/art/Cyberpunk-2077-Icon-801098381) and [Designer](https://www.deviantart.com/blagoicons)
+*	[Last of us](https://www.deviantart.com/troublem4ker/art/The-Last-of-us-Icon-608566586) and [Designer](https://www.deviantart.com/troublem4ker)
+*	[Sackboy](https://twitter.com/littlebigplanet)
+*	[The Sims](https://sims.fandom.com/wiki/The_Sims_4)
+
+##### Console/Social icons - colouring sources
+
+* [Playstation](http://www.brandgradients.com/playstation-colors/)
+* [Xbox](https://www.designpieces.com/palette/xbox-one-colour-palette-hex-rgb/)
+*	[Nintendo Switch](https://www.designpieces.com/palette/nintendo-switch-brand-colours-hex-and-rgb/)
+* [Instagram](http://www.brandgradients.com/instagram-colors/)
+*	[Youtube](https://brandpalettes.com/youtube-color-codes/)
+*	[Twitter](https://brandpalettes.com/twitter-colors/)
+*	[Twitch](https://www.designpieces.com/palette/twitch-color-palette-hex-and-rgb/)
+
+### Code
+
+
+
+
+
+### Acknowledgements
+
+* My mentor Can Sucullu for all the support during the project.
+* Tutor support at Code Institute for their support.
