@@ -45,6 +45,24 @@ The site is designed to be responsive and accessible across all device sizes, al
   *	Languages
   *	Frameworks, Libraries and Programmes
 
+* Testing
+  * Code validation
+  * Accessibility testing
+  * Responsive testing
+  * Further testing
+  * Testing user stories from User Experience (UX) section
+  * Known bugs
+
+* Deployment
+  * Process of deployment
+  * How to run this project locally
+
+* Credits
+  * Content
+  * Media
+  * Code
+  * Acknowledgements
+
 
 
 
