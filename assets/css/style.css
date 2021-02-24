@@ -209,6 +209,10 @@ form {
     color: #fafafa; 
 }
 
+.btn-submit-modal:focus {
+    background-color: rgb(245, 147, 0);
+}
+
 /*---Index page background image/text---*/
 .background-image {
     background: url("../images/full_size/controller.jpg") no-repeat;
