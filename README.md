@@ -365,3 +365,27 @@ Bootstrap was used to aid in the responsive of the design of the site across dev
 
 [Google fonts](https://fonts.google.com/)
 Used to add Poppins and related font weights to the css style file using the @import url function. To improve site load times, this file is loaded into the head element of the HTML pages and backed up by using sans-serif in CSS.
+
+## Testing
+
+### Code validation
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+[W3C Markup Validator](https://validator.w3.org/) - Results
+[W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - Results
+
+### Accessibility Testing
+
+[Google Lighthouse](https://developers.google.com/web/tools/lighthouse) and [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) were used to test the site's accessibility.
+Issues arose during testing-->
+Shown issues were updated for with the following scores.
+
+### Responsive Testing
+[Chrome devtools device mode](https://developers.google.com/web/tools/chrome-devtools/device-mode) was used to test the site’s responsiveness. Manual testing was also performed via resizing the browser to review for issues at varying browser screen sizes.
+
+No known issues were found.
+
+### Further testing
+AAAAAAAAAAAAA
+
+### Testing User Stories from User Experience (UX) Section
