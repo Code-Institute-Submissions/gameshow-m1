@@ -49,6 +49,7 @@ The site is designed to be responsive and accessible across all device sizes, al
   * Code validation
   * Accessibility testing
   * Responsive testing
+  * Manual testing
   * Further testing
   * Testing user stories from User Experience (UX) section
   * Known bugs
@@ -384,8 +385,37 @@ Shown issues were updated for with the following scores.
 
 No known issues were found.
 
+### Manual testing
+1. *Navigation of the site using the navigation links in the header*
+  * Expected: User can move seamlessly through the site without using the back button on their browser
+  * Testing: Tested by only using the provided navigation links
+  * Result: User can move throughout the site using the navigation links provided
+  * Fix: As above, no fix needed
+2. *The modal form requires a game name to be submitted*
+  * Expected: When recommending a game, the user inputs the name of the game before hitting submit
+  * Testing: Tested by leaving the field blank
+  * Result: The form submitted regardless of an empty field due to "required" missing from the form label in the html file
+  * Fix: Added "required" to the html form label and re-tested. No further issues.
+3. *The burger icon appears as the navigation hub on mobile devices and is pinned to the top of the site*
+  * Expected: On mobile view, all of the pages the user can cycle through are collapsed into a burger icon that is consistently at the top of the page
+  * Testing: Resized the browsers on Chrome developer tools to mobile-only and scrolled down each page
+  * Result: Burger icon is visible on mobile-only devices and is pinned to the top on scrolling
+  * Fix: As above, no fix needed
+4. *Responsive design is present on non-large devices*
+  * Expected: On tablet/mobile viewing, certain text content on the site is removed/formatted appropriately
+  * Testing: Tested by resizing each page to tablet/mobile and viewing the resulting site content on these browser widths
+  * Result: Certain tables content were not mobile-friendly for the user to view, essentially too much content was present for the viewport width space available
+  * Fix: Using bootstrap grid system, non-fundamental columns (as defined by user goals) were hidden on mobile design. Further, media-width was utilised for font-sizes for mobile appropriateness. No further issues noted after these fixes were applied on responsive design.
+5. *Images/text presented on the site do not stretch on different viewports and "pop" to the user*
+  * Expected: Across all pages and viewport sizes, images look crisp to the user and the text alongside them is easily readable
+  * Testing: Reviewed all icons/text across all viewport sizes
+  * Result: Images stay clean and sharp, whilst text displays easily to the reader
+  * Fix: As above, no fix needed
+
+
 ### Further testing
-AAAAAAAAAAAAA
+* Social links in the footer were tested to ensure that they opened up in a seperate browser when clicked
+* The navigation items throughout the site were tested on Chrome, Firefox and Safari. I cannot get access to any further testing hubs due to restrictions on my laptop
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -433,7 +463,7 @@ As a returning/frequent visitor of the site, I want:
   * Information is displayed on the main landing page/ "to watch" page for upcoming console releases
 
 ### Known bugs
-There are no known bugs in the deployed site.
+* The burger icon on the mobile design moves in from the right
 
 ## Deployment
 
