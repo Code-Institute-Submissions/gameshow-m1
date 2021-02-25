@@ -506,6 +506,9 @@ Click [Here](https://docs.github.com/en/github/creating-cloning-and-archiving-re
 * [Code Institute](https://codeinstitute.net/): Their sample [README.md](https://github.com/Code-Institute-Solutions/SampleREADME) was used as a design guide for my ReadMe file.
 * [Markdown help](https://guides.github.com/features/mastering-markdown/#) for this ReadMe documentation.
 * Content and layout was inspired by this YouTube streamer, [DevelopedByEd](https://www.youtube.com/c/DevEd/featured). The idea for the glass cards icons came from his [YouTube video](https://www.youtube.com/watch?v=O7WbVj5apxU) and linked [repository](https://github.com/developedbyed/glass-website).
+* Navbar design structure was taken from the following [source](https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/tree/master/04-BeyondBootstrap/03-cleaning_up_our_content) and modified for my purposes.
+* Footer social icon structure was taken from the following [source](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/tree/master/18-resume-for-download/assets/css) and modified for my purposes.
+* Hover social icon inspiration taken from the following [source](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/tree/master/18-resume-for-download/assets/css) code and modified for my purposes.
 
 ### Media
 
