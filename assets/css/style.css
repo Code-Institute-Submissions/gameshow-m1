@@ -122,6 +122,7 @@ footer {
 }
 
 /*---Platform/Social Icon hover responsiveness---*/
+/*---Hover social icon inspiration taken from the following source code and modified for my purposes: https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/tree/master/18-resume-for-download/assets/css---*/
 .icon-colour-instagram:hover {
     background: rgba(240, 48, 214, 0.952);
 }
