@@ -1,4 +1,4 @@
-# GameShow
+<h1 align = "center">GameShow</h1>
 
 View the live project at the following link
 
@@ -13,56 +13,56 @@ The site is designed to be responsive and accessible across all device sizes, al
 
 ## Table of Contents
 * [Site Owner and Product/Business Goals](https://github.com/aryan008/gameshow-m1/blob/master/README.md#site-owner-and-productbusiness-goals)
-* Developer goals
-* First Time Visitor Goals
-* Returning and Frequent Visitor Goals
-* User Experience (UX)
-  * The 5 planes of User Experience – Decisions and Reasons
-    1.	Strategy plane
-    2.	Scope plane
-    3.	Structure plane
-    4.	Skeleton plane
-    5.	Surface plane
+* [Developer goals](https://github.com/aryan008/gameshow-m1/blob/master/README.md#developer-goals)
+* [First Time Visitor Goals](https://github.com/aryan008/gameshow-m1/blob/master/README.md#first-time-visitor-goals)
+* [Returning and Frequent Visitor Goals](https://github.com/aryan008/gameshow-m1/blob/master/README.md#returning-and-frequent-visitor-goals)
+* [User Experience (UX)](https://github.com/aryan008/gameshow-m1/blob/master/README.md#user-experience-ux)
+  * *The 5 planes of User Experience – Decisions and Reasons*
+    1.	[Strategy plane](https://github.com/aryan008/gameshow-m1/blob/master/README.md#strategy-plane)
+    2.	[Scope plane](https://github.com/aryan008/gameshow-m1/blob/master/README.md#scope-plane)
+    3.	[Structure plane](https://github.com/aryan008/gameshow-m1/blob/master/README.md#structure-plane)
+    4.	[Skeleton plane](https://github.com/aryan008/gameshow-m1/blob/master/README.md#skeleton-plane)
+    5.	[Surface plane](https://github.com/aryan008/gameshow-m1/blob/master/README.md#surface-plane)
    
-  *	Who/ What/ How
-  *	User stories
+  *	[Who/ What/ How](https://github.com/aryan008/gameshow-m1/blob/master/README.md#who-what-how)
+  *	[User stories](https://github.com/aryan008/gameshow-m1/blob/master/README.md#user-stories)
 
-* Design Features
-  1. Wireframes
-  2.	Typography
-  3.	Colour scheme
-  4.	Imagery
-  5.	Visual Hierarchy
-  6.	Features implemented
-  7.	Features left to implement
+* [Design Features](https://github.com/aryan008/gameshow-m1/blob/master/README.md#design-features)
+  1. [Wireframes](https://github.com/aryan008/gameshow-m1/blob/master/README.md#wireframes)
+  2.	[Typography](https://github.com/aryan008/gameshow-m1/blob/master/README.md#typography)
+  3.	[Colour scheme](https://github.com/aryan008/gameshow-m1/blob/master/README.md#colour-scheme)
+  4.	[Imagery](https://github.com/aryan008/gameshow-m1/blob/master/README.md#imagery)
+  5.	[Visual Hierarchy](https://github.com/aryan008/gameshow-m1/blob/master/README.md#visual-hierarchy)
+  6.	[Features implemented](https://github.com/aryan008/gameshow-m1/blob/master/README.md#features-implemented)
+  7.	[Features left to implement](https://github.com/aryan008/gameshow-m1/blob/master/README.md#features-left-to-implement)
 
-* Design & UX – How do they come together?
-  * User goals
-  * Site owner goals
-  * Designer goals
+* [Design & UX – How do they come together?](https://github.com/aryan008/gameshow-m1/blob/master/README.md#design--ux--how-do-they-come-together)
+  * [User goals](https://github.com/aryan008/gameshow-m1/blob/master/README.md#user-goals)
+  * [Site owner goals](https://github.com/aryan008/gameshow-m1/blob/master/README.md#site-owner-goals)
+  * [Designer goals](https://github.com/aryan008/gameshow-m1/blob/master/README.md#designer-goals)
 
-* Technology and Languages used
-  *	Languages
-  *	Frameworks, Libraries and Programmes
+* [Technology and Languages used](https://github.com/aryan008/gameshow-m1/blob/master/README.md#technology-and-languages-used)
+  *	[Languages](https://github.com/aryan008/gameshow-m1/blob/master/README.md#languages)
+  *	[Frameworks, Libraries and Programmes](https://github.com/aryan008/gameshow-m1/blob/master/README.md#frameworks-libraries-and-programmes)
 
-* Testing
-  * Code validation
-  * Accessibility testing
-  * Responsive testing
-  * Manual testing
-  * Further testing
-  * Testing user stories from User Experience (UX) section
-  * Known bugs
+* [Testing](https://github.com/aryan008/gameshow-m1/blob/master/README.md#testing)
+  * [Code validation](https://github.com/aryan008/gameshow-m1/blob/master/README.md#code-validation)
+  * [Accessibility testing](https://github.com/aryan008/gameshow-m1/blob/master/README.md#accessibility-testing)
+  * [Responsive testing](https://github.com/aryan008/gameshow-m1/blob/master/README.md#responsive-testing)
+  * [Manual testing](https://github.com/aryan008/gameshow-m1/blob/master/README.md#manual-testing)
+  * [Further testing](https://github.com/aryan008/gameshow-m1/blob/master/README.md#further-testing)
+  * [Testing user stories from User Experience (UX) section](https://github.com/aryan008/gameshow-m1/blob/master/README.md#testing-user-stories-from-user-experience-ux-section)
+  * [Known bugs](https://github.com/aryan008/gameshow-m1/blob/master/README.md#known-bugs)
 
-* Deployment
-  * Process of deployment
-  * How to run this project locally
+* [Deployment](https://github.com/aryan008/gameshow-m1/blob/master/README.md#deployment)
+  * [Process of deployment](https://github.com/aryan008/gameshow-m1/blob/master/README.md#process-of-deployment)
+  * [How to run this project locally](https://github.com/aryan008/gameshow-m1/blob/master/README.md#how-to-run-this-project-locally)
 
-* Credits
-  * Content
-  * Media
-  * Code
-  * Acknowledgements
+* [Credits](https://github.com/aryan008/gameshow-m1/blob/master/README.md#credits)
+  * [Content](https://github.com/aryan008/gameshow-m1/blob/master/README.md#content)
+  * [Media](https://github.com/aryan008/gameshow-m1/blob/master/README.md#media)
+  * [Code](https://github.com/aryan008/gameshow-m1/blob/master/README.md#code)
+  * [Acknowledgements](https://github.com/aryan008/gameshow-m1/blob/master/README.md#acknowledgements)
 
 
 ## Site Owner and Product/Business Goals
@@ -552,6 +552,8 @@ Click [Here](https://docs.github.com/en/github/creating-cloning-and-archiving-re
 * Responsive table design sourced from the following [link](https://stackoverflow.com/questions/38208901/bootstrap-table-hide-column-in-mobile-view)
 
 * Text no-wrapping in table sourced from the following [link](https://www.geeksforgeeks.org/how-to-prevent-text-in-a-table-cell-from-wrapping-using-css/)
+
+* Support for creating the ReadMe file linked table of content: [here](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents) and [here](https://www.setcorrect.com/portfolio/work11/)
 
 ### Acknowledgements
 
