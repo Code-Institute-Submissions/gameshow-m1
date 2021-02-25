@@ -1,8 +1,8 @@
 <h1 align = "center">GameShow</h1>
 
-View the live project at the following link
+View the live project at the following link.
 
-Provide screenshots of responsive at the following link
+Provide screenshots of responsive at the following link.
 
 The online gaming streaming world has exploded in the last decades. With good Wi-Fi and a charismatic approach, gamers are flocking to online streams to watch players complete their favourite games.
 The development of streaming platforms such as Twitch, YouTube and Patreon has allowed gaming streamers to create a fan base like no other.
@@ -78,7 +78,7 @@ The site is to achieve the following goals:
 
 1. The site is presented in an efficient and authentic way so that the users can navigate quickly to the section they are interested in
 2. The information on the site is displayed clearly and contain all the information necessary for the user to possibly take part in one of its events
-3. Given that this is a social hub, the site users must be able to recommend a video via a form or by getting on touch via social links.
+3. Given that this is a social hub, the site users must be able to recommend a video via a form or by getting on touch via social links
 4. Is responsive on all device sizes
 5. Creates a positive experience for the user using gaming colour, imagery and layout
 6. To display the content in a culturally appropriate attested to the audience it is aimed at
@@ -264,7 +264,7 @@ The following characteristics per the article are manipulated (article narrative
 #### Features implemented
 
 ##### Responsive navigation section
-* The navigation displays both the site name (when clicked brings you back to the landing page) and the other site pages that the user can browse. For mobile design, the site pages collapse into a burger icon by using Bootstrap’s JavaScript, enabling the user to toggle on mobile devices. 
+* The navigation displays both the site name (when clicked brings you back to the landing page) and the other site pages that the user can browse. For mobile design, the site pages collapse into a burger icon by using Bootstrap’s JavaScript, enabling the user to toggle on mobile devices
 * The navigation displays a “call to action” for the user to allow them to recommend a game on a multi-choice gaming platform
 * A state change is implemented on the site as they navigate through it through the use of “active” sheet
 
@@ -281,7 +281,7 @@ The following characteristics per the article are manipulated (article narrative
 *	The three action cards overlaying the background highlight the sites function in minimal words. This is common in gaming sites as taglines need to be short and memorable
 
 ##### Footer
-*	The “Let Me Know” section generates a “call to action” once again to the user to get in touch, invoking a personable touch rather than a streaming comments section. The form is intentionally kept simple and allows the user to recommend a game/platform in the smallest number of clicks. Once submitted, colour submit button changes on successful submission.
+*	The “Let Me Know” section generates a “call to action” once again to the user to get in touch, invoking a personable touch rather than a streaming comments section. The form is intentionally kept simple and allows the user to recommend a game/platform in the smallest number of clicks. Once submitted, colour submit button changes on successful submission
 *	The “Add My Gamer Handle” allows the user to easily add the streamer as a friend online in the gaming world
 *	The “Social Links” allows the user to follow the streamer on multiple social platforms
 
@@ -289,7 +289,7 @@ The following characteristics per the article are manipulated (article narrative
 *	The game icons throughout the site and their respective shading provide the “pop” effect that stand out massively to the user. The display/shading/colouring/clarity of these icons are bigger in size and allow the user to notice them easily
 
 ##### Layout
-*	All the site’s pages are structured visually (font/colouring/areas) consistently throughout, creating a common theme for the users of the site. The hierarchy presented tells the user extremely quickly where to look on a page and how to navigate the site.
+*	All the site’s pages are structured visually (font/colouring/areas) consistently throughout, creating a common theme for the users of the site. The hierarchy presented tells the user extremely quickly where to look on a page and how to navigate the site
 *	“Pop” effect colouring is used on both game icons and review content areas to stand out to the user in a visually appealing sense
 
 #### Features left to implement
@@ -344,22 +344,22 @@ User Goal | Feature(s)/ Content in response | Goal Met?
 ### Frameworks, Libraries and Programmes
 
 [jQuery](https://jquery.com/)
-Used as part of responsive navigation design for mobile devices
+Used as part of responsive navigation design for mobile devices.
 
 [Font Awesome](https://fontawesome.com/)
-Used to create the streaming platform icons, the social site icons and the console icons
+Used to create the streaming platform icons, the social site icons and the console icons.
 
 [GitHub](https://github.com/)
-Used to store projects code upon Git push
+Used to store projects code upon Git push.
 
 [Git](https://en.wikipedia.org/wiki/Git)
-Used for version control through the Gitpod terminal and the Git add/commit/push action sequence
+Used for version control through the Gitpod terminal and the Git add/commit/push action sequence.
 
 [Microsoft Word](https://www.microsoft.com/en-ie/microsoft-365/word)
-Used for designing of the wireframes as I am completing this project on my work laptop with no access to Balsamiq
+Used for designing of the wireframes as I am completing this project on my work laptop with no access to Balsamiq.
 
 [Bootstrap 4.1](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
-Bootstrap was used to aid in the responsive of the design of the site across device sizes. It also brought the need down for CSS styling, although custom styling was appropriately included when the outcome of that design was better than the default Bootstrap design
+Bootstrap was used to aid in the responsive of the design of the site across device sizes. It also brought the need down for CSS styling, although custom styling was appropriately included when the outcome of that design was better than the default Bootstrap design.
 
 [Google fonts](https://fonts.google.com/)
 Used to add Poppins and related font weights to the css style file using the @import url function. To improve site load times, this file is loaded into the head element of the HTML pages and backed up by using sans-serif in CSS.
@@ -405,7 +405,7 @@ No known issues were found.
   * Expected: On tablet/mobile viewing, certain text content on the site is removed/formatted appropriately
   * Testing: Tested by resizing each page to tablet/mobile and viewing the resulting site content on these browser widths
   * Result: Certain tables content were not mobile-friendly for the user to view, essentially too much content was present for the viewport width space available
-  * Fix: Using bootstrap grid system, non-fundamental columns (as defined by user goals) were hidden on mobile design. Further, media-width was utilised for font-sizes for mobile appropriateness. No further issues noted after these fixes were applied on responsive design.
+  * Fix: Using bootstrap grid system, non-fundamental columns (as defined by user goals) were hidden on mobile design. Further, media-width was utilised for font-sizes for mobile appropriateness. No further issues noted after these fixes were applied on responsive design
 5. *Images/text presented on the site do not stretch on different viewports and "pop" to the user*
   * Expected: Across all pages and viewport sizes, images look crisp to the user and the text alongside them is easily readable
   * Testing: Reviewed all icons/text across all viewport sizes
@@ -472,7 +472,7 @@ As a returning/frequent visitor of the site, I want:
 
 The project was deployed to GitHub Pages using the following steps.
 
-1.	Log in to GitHub and locate the GitHub Repository
+1.	Log in to GitHub and locate the GitHub Repository.
 2.	At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
 3.	Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4.	Under "Source", click the dropdown called "None" and select "Master Branch".
@@ -483,13 +483,13 @@ The project was deployed to GitHub Pages using the following steps.
 
 By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps.
 
-1.	Log in to GitHub and locate the GitHub Repository
+1.	Log in to GitHub and locate the GitHub Repository.
 2.	At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3.	You should now have a copy of the original repository in your GitHub account.
 
 
 ### How to run this project locally
-1.	Log in to GitHub and locate the GitHub Repository
+1.	Log in to GitHub and locate the GitHub Repository.
 2.	Under the repository name, click "Clone or download".
 3.	To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4.	Open Git Bash
@@ -505,6 +505,7 @@ Click [Here](https://docs.github.com/en/github/creating-cloning-and-archiving-re
 
 * [Code Institute](https://codeinstitute.net/): Their sample [README.md](https://github.com/Code-Institute-Solutions/SampleREADME) was used as a design guide for my ReadMe file.
 * [Markdown help](https://guides.github.com/features/mastering-markdown/#) for this ReadMe documentation.
+* Code Institutes [pre-installed gitpod repository](https://github.com/Code-Institute-Org/gitpod-full-template)
 * Content and layout was inspired by this YouTube streamer, [DevelopedByEd](https://www.youtube.com/c/DevEd/featured). The idea for the glass cards icons came from his [YouTube video](https://www.youtube.com/watch?v=O7WbVj5apxU) and linked [repository](https://github.com/developedbyed/glass-website).
 * Navbar design structure was taken from the following [source](https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/tree/master/04-BeyondBootstrap/03-cleaning_up_our_content) and modified for my purposes.
 * Footer social icon structure was taken from the following [source](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/tree/master/18-resume-for-download/assets/css) and modified for my purposes.
