@@ -19,6 +19,10 @@ body {
     padding-top: 50px;
 }
 
+.table {
+    color: #fafafa;
+}
+
 /*---Site background colouring---*/
 .navbar-colouring, 
 footer {
