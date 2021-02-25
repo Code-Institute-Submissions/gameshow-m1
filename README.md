@@ -12,7 +12,7 @@ The aim of this site is to allow the streamers’ fans to follow all the great u
 The site is designed to be responsive and accessible across all device sizes, allowing easy navigation for fans or potential fans.
 
 ## Table of Contents
-* [Site Owner and Product/Business Goals](#Site-Owner-and-Product/Business-Goals)
+* [Site Owner and Product/Business Goals](https://github.com/aryan008/gameshow-m1#Site-Owner-and-Product/Business-Goals)
 * Developer goals
 * First Time Visitor Goals
 * Returning and Frequent Visitor Goals
