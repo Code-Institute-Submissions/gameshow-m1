@@ -358,7 +358,7 @@ Used for version control through the Gitpod terminal and the Git add/commit/push
 [Microsoft Word](https://www.microsoft.com/en-ie/microsoft-365/word)
 Used for designing of the wireframes as I am completing this project on my work laptop with no access to Balsamiq.
 
-[Bootstrap 4.1](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+[Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 Bootstrap was used to aid in the responsive of the design of the site across device sizes. It also brought the need down for CSS styling, although custom styling was appropriately included when the outcome of that design was better than the default Bootstrap design.
 
 [Google fonts](https://fonts.google.com/)
@@ -507,9 +507,13 @@ Click [Here](https://docs.github.com/en/github/creating-cloning-and-archiving-re
 * [Markdown help](https://guides.github.com/features/mastering-markdown/#) for this ReadMe documentation.
 * Code Institutes [pre-installed gitpod repository](https://github.com/Code-Institute-Org/gitpod-full-template)
 * Content and layout was inspired by this YouTube streamer, [DevelopedByEd](https://www.youtube.com/c/DevEd/featured). The idea for the glass cards icons came from his [YouTube video](https://www.youtube.com/watch?v=O7WbVj5apxU) and linked [repository](https://github.com/developedbyed/glass-website).
-* Navbar design structure was taken from the following [source](https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/tree/master/04-BeyondBootstrap/03-cleaning_up_our_content) and modified for my purposes.
+* Navbar design structure was taken from the following [source](https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/tree/master/04-BeyondBootstrap/03-cleaning_up_our_content) and modified for my purposes. The original [source](https://getbootstrap.com/docs/4.6/components/navbar/) is from Bootstraps documentation.
 * Footer social icon structure was taken from the following [source](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/tree/master/18-resume-for-download/assets/css) and modified for my purposes.
 * Hover social icon inspiration taken from the following [source](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/tree/master/18-resume-for-download/assets/css) code and modified for my purposes.
+* Modal design is from the [Bootstrap framework](https://getbootstrap.com/docs/4.6/components/modal/), modified for my purposes.
+* Button design is from the [Bootstrap framework](https://getbootstrap.com/docs/4.6/components/buttons/), modified for my purposes.
+* Table design is from the [Bootstrap framework](https://getbootstrap.com/docs/4.6/content/tables/), modified for my purposes.
+* Form design is from the [Bootstrap framework](https://getbootstrap.com/docs/4.6/components/forms/), modified for my purposes.
 
 ### Media
 
@@ -551,13 +555,13 @@ Click [Here](https://docs.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
-* [Bootstrap 4.1](https://getbootstrap.com/docs/4.1/getting-started/introduction/):  Bootstrap library used throughout the project to make site responsive using the Bootstrap Grid System. Modal/Button/Table design are also used from this library and are documented as such.
+* [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/):  Bootstrap library used throughout the project to make site responsive using the Bootstrap Grid System. Modal / Button / Table / Form design are also used from this library and are documented as such above.
 
-* Responsive table design sourced from the following [link](https://stackoverflow.com/questions/38208901/bootstrap-table-hide-column-in-mobile-view)
+* Responsive table design sourced from the following [link](https://stackoverflow.com/questions/38208901/bootstrap-table-hide-column-in-mobile-view).
 
-* Text no-wrapping in table sourced from the following [link](https://www.geeksforgeeks.org/how-to-prevent-text-in-a-table-cell-from-wrapping-using-css/)
+* Text no-wrapping in table sourced from the following [link](https://www.geeksforgeeks.org/how-to-prevent-text-in-a-table-cell-from-wrapping-using-css/).
 
-* Support for creating the ReadMe file linked table of content: [here](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents) and [here](https://www.setcorrect.com/portfolio/work11/)
+* Support for creating the ReadMe file linked table of content: [here](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents) and [here](https://www.setcorrect.com/portfolio/work11/).
 
 ### Acknowledgements
 
