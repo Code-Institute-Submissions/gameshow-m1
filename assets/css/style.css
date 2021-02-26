@@ -373,3 +373,26 @@ form {
     }
 }
 
+@media screen and (max-width:398px) {
+    .streams-info,
+    .playing-info,
+    .upcoming-info {
+        font-size: 11px;
+    }
+
+    .table-streams-image,
+    .table-playing-image,
+    .table-upcoming-image {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+    }
+}
+
+@media screen and (max-width:304px) {
+    .table-streams-image,
+    .table-playing-image,
+    .table-upcoming-image {
+        display: none;
+    }
+}
