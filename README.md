@@ -377,6 +377,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) and [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) were used to test the site's accessibility.
 
+*WAVE Updates*
+* An update was made for removal of the table headings that had blank cells. Commit #150.
+
 Issues arose during testing-->
 Shown issues were updated for with the following scores.
 
