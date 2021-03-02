@@ -13,35 +13,35 @@
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
     <title>Gameshow</title>
 </head>
-<!--Header & Navigation. Collapsable Navbar code sourced from: https://getbootstrap.com/docs/4.6/components/navbar/ -->
-<header>
-    <!--Inspiration for Navbar design taken from the following and modified for this code https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/tree/master/04-BeyondBootstrap/03-cleaning_up_our_content-->
-    <nav class="navbar fixed-top navbar-expand-sm navbar-dark bg-light navbar-colouring">
-        <a class="navbar-brand text-uppercase" href="index.html">Gameshow</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse ml-auto" id="navbarNav">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item">
-                    <a class="nav-link" href="index.html">Currently Playing</a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="watch.html">Games To Watch <span class="sr-only">Games to watch page</span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="favourite.html">All Time Favourites</a>
-                </li>
-            </ul>
-        </div>
-        <div class="row">
-            <span class="navbar-text d-none d-lg-block">
-                <a class="nav-link active" href = "#" data-toggle="modal" data-target="#recommendModal">Suggest a game to review/stream</a>
-            </span>
-        </div>
-    </nav>
-</header>
 <body>
+    <!--Header & Navigation. Collapsable Navbar code sourced from: https://getbootstrap.com/docs/4.6/components/navbar/ -->
+    <header>
+        <!--Inspiration for Navbar design taken from the following and modified for this code https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/tree/master/04-BeyondBootstrap/03-cleaning_up_our_content-->
+        <nav class="navbar fixed-top navbar-expand-sm navbar-dark bg-light navbar-colouring">
+            <a class="navbar-brand text-uppercase" href="index.html">Gameshow</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse ml-auto" id="navbarNav">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Currently Playing</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="watch.html">Games To Watch <span class="sr-only">Games to watch page</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="favourite.html">All Time Favourites</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="row">
+                <span class="navbar-text d-none d-lg-block">
+                    <a class="nav-link active" href = "#" data-toggle="modal" data-target="#recommendModal">Suggest a game to review/stream</a>
+                </span>
+            </div>
+        </nav>
+    </header>
     <!--Games to watch upcoming section -->
     <section class = "upcoming-games container-fluid">
         <div class="row justify-content-center">
