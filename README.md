@@ -387,6 +387,7 @@ Issues arose during testing are discussed and corrected below.
 
 *Google Lighthouse Updates*
 * An update was made to add "rel=noopener" on any links that opened up in a new tab. This was recommended by Google Lighthouse and explained in this further [link](https://web.dev/external-anchors-use-rel-noopener/?utm_source=lighthouse&utm_medium=devtools). Corrected as part of commit #160.
+* The meta description as part of the SEO category of Google lighthouse was added to the head elements of all pages as part of commit #162.
 
 Shown issues were updated for with the following scores.
 
