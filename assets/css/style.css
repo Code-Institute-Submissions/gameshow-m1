@@ -241,6 +241,7 @@ form {
     color: #fafafa;
     font-size: 30px;
     padding: 10px 10px;
+    background-color: #4D4D4D;
 }
 
 .web-text-hero {
@@ -339,7 +340,7 @@ form {
 .graphics-text,
 .graphics-bar {
     color: #fafafa;
-    background-color: rgb(55, 177, 7);
+    background-color: #1F6006;
 }
 
 .fun-text,
@@ -351,25 +352,25 @@ form {
 .soundtrack-text,
 .soundtrack-bar {
     color: #fafafa;
-    background-color: rgb(224, 64, 64);
+    background-color: #A21A1A;
 }
 
 .storyline-text,
 .storyline-bar {
     color: #fafafa;
-    background-color: rgb(221, 209, 39);
+    background-color: #59520D;
 }
 
 .originality-text,
 .originality-bar {
     color: #fafafa;
-    background-color: rgb(56, 173, 228);
+    background-color: #135776;
 }
 
 .depth-text,
 .depth-bar {
     color: #fafafa;
-    background-color: rgb(230, 55, 215);
+    background-color: #9A138F;
 }
 
 /*---Media Queries---*/
