@@ -373,6 +373,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 *Fixes from HTML Validator*
 * As part of commit #167, correctly moved the closing body tag of each page just above the closing HTML tag.
+* As part of commit #169, correctly moved the opening body tag above the header tag on all pages.
 
 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - Results
 
