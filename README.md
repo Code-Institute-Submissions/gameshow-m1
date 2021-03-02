@@ -372,8 +372,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 [W3C Markup Validator](https://validator.w3.org/) - Results
 
 *Fixes from HTML Validator*
-* As part of commit #167, correctly moved the closing body tag of each page just above the closing HTML tag.
-* As part of commit #169, correctly moved the opening body tag above the header tag on all pages.
+* As part of commit #167 (linked [here](https://github.com/aryan008/gameshow-m1/commit/7caed6445795d658e9780c34fe3fe44e3bbe8555#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051), correctly moved the closing body tag of each page just above the closing HTML tag.
+* As part of commit #169 (linked [here](https://github.com/aryan008/gameshow-m1/commit/9010ba3c189755ec0984d7d4885d46abe488ade6#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)), correctly moved the opening body tag above the header tag on all pages.
 
 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - Results
 
@@ -386,14 +386,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 Issues arose during testing are discussed and corrected below.
 
 *WAVE Updates*
-* An update was made for removal of the table headings that had blank cells. Commit #150.
-* The WAVE responsive test bug of "Redundant link Adjacent links go to the same URL." was fixed for in commit #154. The URL's on the Navbar of the page the user is currently on is now "".
-* The WAVE responsive test contrast error was fixed as part of commit #156 - completed through darkening the background colours of the progress bars.
-* The WAVE responsive test fieldset/legend alert on the form in the modal was corrected in commit #158.
+* An update was made for removal of the table headings that had blank cells, linked in the [following](https://github.com/aryan008/gameshow-m1/commit/651690d87a8c985c1d27f54911d3ff5ddcb0e692#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051).
+* The WAVE responsive test contrast error was fixed as part of commit #156 - completed through darkening the background colours of the progress bars linked [here](https://github.com/aryan008/gameshow-m1/commit/aa40c480adf1e618c035898c223aed7cd94f0084#diff-a72d4ee198d130c997b203ecb2f5c54d84617b3cdf7bd9eaab804be78e2709ae).
+* The WAVE responsive test fieldset/legend alert on the form in the modal was corrected in commit #158 linked [here](https://github.com/aryan008/gameshow-m1/commit/3d77b935f88279c2f46df3217930f4846fd0e272#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051).
 
 *Google Lighthouse Updates*
-* An update was made to add "rel=noopener" on any links that opened up in a new tab. This was recommended by Google Lighthouse and explained in this further [link](https://web.dev/external-anchors-use-rel-noopener/?utm_source=lighthouse&utm_medium=devtools). Corrected as part of commit #160.
-* The meta description as part of the SEO category of Google lighthouse was added to the head elements of all pages as part of commit #162.
+* An update was made to add "rel=noopener" on any links that opened up in a new tab. This was recommended by Google Lighthouse and explained in this further [link](https://web.dev/external-anchors-use-rel-noopener/?utm_source=lighthouse&utm_medium=devtools). Corrected as part of commit #160 linked [here](https://github.com/aryan008/gameshow-m1/commit/51986d480f57e35943dca0814410043ea5b7d7e1#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051).
+* The meta description as part of the SEO category of Google lighthouse was added to the head elements of all pages as part of commit #162. See [here](https://github.com/aryan008/gameshow-m1/commit/7079e4ec75738391e9c758c4e7c7cadb4b80943f#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051).
 
 Shown issues were updated for with the following scores.
 
@@ -422,7 +421,13 @@ No known issues were found.
   * Expected: On tablet/mobile viewing, certain text content on the site is removed/formatted appropriately
   * Testing: Tested by resizing each page to tablet/mobile and viewing the resulting site content on these browser widths
   * Result: Certain tables content were not mobile-friendly for the user to view, essentially too much content was present for the viewport width space available
-  * Fix: Using bootstrap grid system, non-fundamental columns (as defined by user goals) were hidden on mobile design. Further, media-width was utilised for font-sizes for mobile appropriateness. No further issues noted after these fixes were applied on responsive design
+  * Fix: Using bootstrap grid system, non-fundamental columns (as defined by user goals) were hidden on mobile design. Further, media-width was utilised for font-sizes for mobile appropriateness. No further issues noted after these fixes were applied on responsive design. See the following commit messages and related links for responsive fixes:
+    * [Link](https://github.com/aryan008/gameshow-m1/commit/3dda254bd4697c44a64ec8c35d54f35ea969a870#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)
+    * [Link](https://github.com/aryan008/gameshow-m1/commit/64c88b3b5ef037ecd716f214458357ab640e452c#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)
+    * [Link](https://github.com/aryan008/gameshow-m1/commit/5e99910a88ee27ca6672f79f1de690ce31564257#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)
+    * [Link](https://github.com/aryan008/gameshow-m1/commit/42647d8be1acc797f25d624fa56ac3bc685bf3fb#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)
+    * [Link](https://github.com/aryan008/gameshow-m1/commit/a7fc73c292a0fe30eb8c6d8605cec1e8abd68ca6#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)
+    * [Link](https://github.com/aryan008/gameshow-m1/commit/4859ac3a7a50051481391cc8f730d9e458b4549d#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)
 5. *Images/text presented on the site do not stretch on different viewports and "pop" to the user*
   * Expected: Across all pages and viewport sizes, images look crisp to the user and the text alongside them is easily readable
   * Testing: Reviewed all icons/text across all viewport sizes
