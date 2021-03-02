@@ -379,7 +379,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 *WAVE Updates*
 * An update was made for removal of the table headings that had blank cells. Commit #150.
-* The WAVE bug of "Redundant link Adjacent links go to the same URL." was fixed for in commit #154. The URL's on the Navbar of the page the user is currently on is now "".
+* The WAVE responsive test bug of "Redundant link Adjacent links go to the same URL." was fixed for in commit #154. The URL's on the Navbar of the page the user is currently on is now "".
+* The WAVE responsive test contrast error was fixed as part of commit #156 - completed through darkening the background colours of the progress bars.
 
 Issues arose during testing-->
 Shown issues were updated for with the following scores.
