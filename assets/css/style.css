@@ -237,6 +237,12 @@ form {
     top: 5px;
 }
 
+.web-text-hero-tagline {
+    color: #fafafa;
+    font-size: 30px;
+    padding: 10px 10px;
+}
+
 .web-text-hero {
     color: #fafafa;
     width: 200px;
