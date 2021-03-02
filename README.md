@@ -399,7 +399,7 @@ Shown issues were updated for with the following scores.
 ### Responsive Testing
 [Chrome devtools device mode](https://developers.google.com/web/tools/chrome-devtools/device-mode) was used to test the site’s responsiveness. Manual testing was also performed via resizing the browser to review for issues at varying browser screen sizes.
 
-No known issues were found.
+No known issues were found outside of point 4 in manual testing below.
 
 ### Manual testing
 1. *Navigation of the site using the navigation links in the header*
@@ -485,7 +485,9 @@ As a returning/frequent visitor of the site, I want:
   * Information is displayed on the main landing page/ "to watch" page for upcoming console releases
 
 ### Known bugs
-* The burger icon on the mobile design moves in from the right
+* The burger icon on the mobile design moves in from the right when clicked.
+* On WAVE testing, an alert is made that "Redundant link - Adjacent links go to the same URL.". This relates to the navbar headings at the top of each page, and are there by design choice and will not be removed despite the WAVE alert.
+* On WAVE testing, an alert is made that "Underlined text is present.", which relates to the "active" page the user is on. This underlining of the current page is there by design choice and will not be removed despite the WAVE alert.
 
 ## Deployment
 
