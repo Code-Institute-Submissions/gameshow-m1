@@ -200,9 +200,9 @@ Hence, I want a site independent of the streaming platforms where I can easily:
 ## Design Features
 
 #### Wireframes
-* Desktop wireframe - [attached](https://github.com/aryan008/gameshow-m1/blob/master/assets/rm_files/Wireframe%20-%20Desktop.pdf)
-* Tablet wireframe - [attached](https://github.com/aryan008/gameshow-m1/blob/master/assets/rm_files/Wireframe%20-%20Tablet.pdf)
-* Mobile wireframe - [attached](https://github.com/aryan008/gameshow-m1/blob/master/assets/rm_files/Wireframe%20-%20Mobile.pdf)
+* Desktop wireframe - [attached](assets/rm_files/Wireframe%20-%20Desktop.pdf)
+* Tablet wireframe - [attached](assets/rm_files/Wireframe%20-%20Tablet.pdf)
+* Mobile wireframe - [attached](assets/rm_files/Wireframe%20-%20Mobile.pdf)
 
 #### Typography
 Poppins is used as the main font on the site, as imported through Google Fonts. Sans-serif is used as the fallback font. According to an article on [mock plus](https://www.mockplus.com/blog/post/google-web-fonts):
