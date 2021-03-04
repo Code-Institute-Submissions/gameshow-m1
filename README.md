@@ -383,7 +383,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) and [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) were used to test the site's accessibility.
 
-Issues arose during testing are discussed and corrected below.
+See the following [link](testing_results.md) to review the screenshots of successful accessibility testing on all pages of the site.
+
+The issues that arose during testing are discussed and corrected below.
 
 *WAVE Updates*
 * An update was made for removal of the table headings that had blank cells, linked in the [following](https://github.com/aryan008/gameshow-m1/commit/651690d87a8c985c1d27f54911d3ff5ddcb0e692#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051).
@@ -397,7 +399,14 @@ Issues arose during testing are discussed and corrected below.
 Shown issues were updated for with the following scores.
 
 ### Responsive Testing
-[Chrome devtools device mode](https://developers.google.com/web/tools/chrome-devtools/device-mode) was used to test the site’s responsiveness. Manual testing was also performed via resizing the browser to review for issues at varying browser screen sizes.
+
+The site's repsonsiveness was tested using [Google's Mobile Friendly Tester](https://search.google.com/test/mobile-friendly) and [Responsinator](https://www.responsinator.com/).
+
+See the following [link](testing_results.md) to review the screenshots of successful responsive testing on all pages of the site for Google's Mobile Friendly Tester.
+
+To review the Responsinator testing, click [here](https://www.responsinator.com/) and enter the URL of this site. As part of responsive testing, the site was tested across all device sizes per this link and no issues were found.
+
+[Chrome devtools device mode](https://developers.google.com/web/tools/chrome-devtools/device-mode) was also used to test the site’s responsiveness. Manual testing was also performed via resizing the browser to review for issues at varying browser screen sizes.
 
 No known issues were found outside of point 4 in manual testing below.
 
@@ -436,7 +445,7 @@ No known issues were found outside of point 4 in manual testing below.
 
 
 ### Further testing
-* Social links in the footer were tested to ensure that they opened up in a seperate browser when clicked
+* Social links in the footer were tested to ensure that they opened up in a separate browser when clicked
 * The navigation items throughout the site were tested on Chrome, Firefox and Safari. I cannot get access to any further testing hubs due to restrictions on my laptop
 
 ### Testing User Stories from User Experience (UX) Section
