@@ -521,6 +521,7 @@ By forking the GitHub Repository, we make a copy of the original repository on o
 2.	At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3.	You should now have a copy of the original repository in your GitHub account.
 
+Further information surrounding forking a repository can be found [here](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
 
 ### How to run this project locally
 1.	Log in to GitHub and locate the [GameShow GitHub Repository](https://github.com/aryan008/gameshow-m1).
@@ -530,6 +531,8 @@ By forking the GitHub Repository, we make a copy of the original repository on o
 5.	Change the current working directory to the location where you want the cloned directory to be made.
 6.	Type git clone, and then paste the URL you copied in Step 3.
 7. Press Enter. Your local clone will be created.
+
+Further information surrounding closing a repository can be found [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
  
 Click [Here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
