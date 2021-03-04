@@ -372,7 +372,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 [W3C Markup Validator](https://validator.w3.org/) - Results
 
 *Fixes from HTML Validator*
-* As part of commit #167 (linked [here](https://github.com/aryan008/gameshow-m1/commit/7caed6445795d658e9780c34fe3fe44e3bbe8555#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051), correctly moved the closing body tag of each page just above the closing HTML tag.
+* As part of commit #167 (linked [here](https://github.com/aryan008/gameshow-m1/commit/7caed6445795d658e9780c34fe3fe44e3bbe8555#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)), correctly moved the closing body tag of each page just above the closing HTML tag.
 * As part of commit #169 (linked [here](https://github.com/aryan008/gameshow-m1/commit/9010ba3c189755ec0984d7d4885d46abe488ade6#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)), correctly moved the opening body tag above the header tag on all pages.
 
 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - Results
@@ -383,9 +383,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) and [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) were used to test the site's accessibility.
 
-See the following [link](testing_results.md) to review the screenshots of successful accessibility testing on all pages of the site.
+See the following [link](testing_results.md) to review the screenshots of successful accessibility testing on all pages of the site for Google Lighthouse and WAVE Web Accessibility.
 
-The issues that arose during testing are discussed and corrected below.
+The issues that arose during this testing are discussed and corrected below.
 
 *WAVE Updates*
 * An update was made for removal of the table headings that had blank cells, linked in the [following](https://github.com/aryan008/gameshow-m1/commit/651690d87a8c985c1d27f54911d3ff5ddcb0e692#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051).
@@ -395,8 +395,6 @@ The issues that arose during testing are discussed and corrected below.
 *Google Lighthouse Updates*
 * An update was made to add "rel=noopener" on any links that opened up in a new tab. This was recommended by Google Lighthouse and explained in this further [link](https://web.dev/external-anchors-use-rel-noopener/?utm_source=lighthouse&utm_medium=devtools). Corrected as part of commit #160 linked [here](https://github.com/aryan008/gameshow-m1/commit/51986d480f57e35943dca0814410043ea5b7d7e1#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051).
 * The meta description as part of the SEO category of Google lighthouse was added to the head elements of all pages as part of commit #162. See [here](https://github.com/aryan008/gameshow-m1/commit/7079e4ec75738391e9c758c4e7c7cadb4b80943f#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051).
-
-Shown issues were updated for with the following scores.
 
 ### Responsive Testing
 
@@ -469,6 +467,7 @@ As a first-time visitor of the site, I want:
 5. _Easy navigation of the site_
   * User can use the navbar at the top of all pages, and does not need to click "back" on their browser
   * Burger icon used on mobile devices for responsive design
+  * The navbar is pinned to the top of the site on scroll, so the user does not have to scroll back up to navigate
 6. _To understand the information on the site clearly_
   * Colour/Font/Layout structure used effectively 
   * Use of spacing and dynamic colour contrast.
@@ -494,10 +493,10 @@ As a returning/frequent visitor of the site, I want:
   * Information is displayed on the main landing page/ "to watch" page for upcoming console releases
 
 ### Known bugs
-* The burger icon on the mobile design moves in from the right when clicked.
+* The burger icon on the mobile design moves in from the right when clicked. Whilst I would like to get this fixed, I do not have time.
 * On WAVE testing, an alert is made that "Redundant link - Adjacent links go to the same URL.". This relates to the navbar headings at the top of each page, and are there by design choice and will not be removed despite the WAVE alert.
 * On WAVE testing, an alert is made that "Underlined text is present.", which relates to the "active" page the user is on. This underlining of the current page is there by design choice and will not be removed despite the WAVE alert.
-* On Google Lighthouse testing, it was noted that using JPEG2000 rather than PNG/JPEG for images adds to the performance of the site for image loading. Whilst I agree and would like to, the conversion tool on my laptop to perform this for the images is restricted due to administrator settings.
+* On Google Lighthouse testing, it was noted that using JPEG 2000 rather than PNG/JPEG for images adds to the performance of the site for image loading. Whilst I agree and would like to achieve this, the conversion tool on my laptop to perform this for the images is restricted due to administrator settings.
 
 ## Deployment
 
