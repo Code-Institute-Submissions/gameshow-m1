@@ -1,8 +1,8 @@
 <h1 align = "center">GameShow</h1>
 
-View the live project at the following link.
+View the live project at the following [link](https://aryan008.github.io/gameshow-m1/).
 
-Provide screenshots of responsive at the following link.
+![See how the site looks across the devices](assets/rm_files/responsive.png)
 
 The online gaming streaming world has exploded in the last decades. With good Wi-Fi and a charismatic approach, gamers are flocking to online streams to watch players complete their favourite games.
 The development of streaming platforms such as Twitch, YouTube and Patreon has allowed gaming streamers to create a fan base like no other.
@@ -369,13 +369,13 @@ Used to add Poppins and related font weights to the css style file using the @im
 ### Code validation
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-[W3C Markup Validator](https://validator.w3.org/) - Results
+[W3C Markup Validator](https://validator.w3.org/) - [Results screenshot](assets/rm_files/html-validation.png)
 
 *Fixes from HTML Validator*
 * As part of commit #167 (linked [here](https://github.com/aryan008/gameshow-m1/commit/7caed6445795d658e9780c34fe3fe44e3bbe8555#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)), correctly moved the closing body tag of each page just above the closing HTML tag.
 * As part of commit #169 (linked [here](https://github.com/aryan008/gameshow-m1/commit/9010ba3c189755ec0984d7d4885d46abe488ade6#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)), correctly moved the opening body tag above the header tag on all pages.
 
-[W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - Results
+[W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results screenshot](assets/rm_files/css-validation.png)
 
 *Fixes from HTML Validator - None*
 
@@ -383,7 +383,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) and [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) were used to test the site's accessibility.
 
-See the following [link](testing_results.md) to review the screenshots of successful accessibility testing on all pages of the site for Google Lighthouse and WAVE Web Accessibility.
+See the following [link](testing_results.md) to review the screenshots of successful accessibility testing on all pages of the site for Google Lighthouse and WAVE Web Accessibility. For the WAVE specific testing live link, click on the [following](https://wave.webaim.org/report#/https://aryan008.github.io/gameshow-m1/).
 
 The issues that arose during this testing are discussed and corrected below.
 
@@ -401,8 +401,9 @@ The issues that arose during this testing are discussed and corrected below.
 The site's repsonsiveness was tested using [Google's Mobile Friendly Tester](https://search.google.com/test/mobile-friendly) and [Responsinator](https://www.responsinator.com/).
 
 See the following [link](testing_results.md) to review the screenshots of successful responsive testing on all pages of the site for Google's Mobile Friendly Tester.
+See the folling [link](https://search.google.com/test/mobile-friendly?id=2KHHLDXx5JS6ztmWjdr9Nw) for the live test of Google's Mobile Friendly Tester.
 
-To review the Responsinator testing, click [here](https://www.responsinator.com/) and enter the URL of this site. As part of responsive testing, the site was tested across all device sizes per this link and no issues were found.
+To review the Responsinator testing, click [here](https://www.responsinator.com/?url=https%3A%2F%2Faryan008.github.io%2Fgameshow-m1%2F). As part of responsive testing, the site was tested across all device sizes per this link and no issues were found.
 
 [Chrome devtools device mode](https://developers.google.com/web/tools/chrome-devtools/device-mode) was also used to test the site’s responsiveness. Manual testing was also performed via resizing the browser to review for issues at varying browser screen sizes.
 
@@ -547,6 +548,7 @@ Click [Here](https://docs.github.com/en/github/creating-cloning-and-archiving-re
 * Button design is from the [Bootstrap framework](https://getbootstrap.com/docs/4.6/components/buttons/), modified for my purposes.
 * Table design is from the [Bootstrap framework](https://getbootstrap.com/docs/4.6/content/tables/), modified for my purposes.
 * Form design is from the [Bootstrap framework](https://getbootstrap.com/docs/4.6/components/forms/), modified for my purposes.
+* Responsive image at the top of the ReadMe file is from [Am I Responsive](http://ami.responsivedesign.is/#).
 
 ### Media
 
