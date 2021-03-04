@@ -7,7 +7,7 @@ Provide screenshots of responsive at the following link.
 The online gaming streaming world has exploded in the last decades. With good Wi-Fi and a charismatic approach, gamers are flocking to online streams to watch players complete their favourite games.
 The development of streaming platforms such as Twitch, YouTube and Patreon has allowed gaming streamers to create a fan base like no other.
 
-The aim of this site is to allow a gaming streamers’ fans to follow all the great upcoming and new content of the stream channel. Users can see the games that will be played, what the streamer is currently playing, what the streamer is excited about as a professional gamer and his favourite games of all time. It allows the site users to also recommend a game for streaming either through a form or letting them know on the provided social media links.
+The aim of this site is to allow a very famous gaming streamers’ fans to follow all the great upcoming and new content of his stream channel. Users can see the games that will be played, what the streamer is currently playing, what the streamer is excited about as a professional gamer and his favourite games of all time. It allows the site users to also recommend a game for streaming either through a form or letting them know on the provided social media links.
 
 The site is designed to be responsive and accessible across all device sizes, allowing easy navigation for fans or potential fans.
 
@@ -18,11 +18,11 @@ The site is designed to be responsive and accessible across all device sizes, al
 * [Returning and Frequent Visitor Goals](#returning-and-frequent-visitor-goals)
 * [User Experience (UX)](#user-experience-ux)
   * *The 5 planes of User Experience – Decisions and Reasons*
-    1.	[Strategy plane](#strategy-plane)
-    2.	[Scope plane](#scope-plane)
-    3.	[Structure plane](#structure-plane)
-    4.	[Skeleton plane](#skeleton-plane)
-    5.	[Surface plane](#surface-plane)
+   1.	[Strategy plane](#strategy-plane)
+   2.	[Scope plane](#scope-plane)
+   3.	[Structure plane](#structure-plane)
+   4.	[Skeleton plane](#skeleton-plane)
+   5.	[Surface plane](#surface-plane)
    
   *	[Who/ What/ How](#who-what-how)
   *	[User stories](#user-stories)
@@ -82,7 +82,7 @@ The site is to achieve the following goals:
 4. Is responsive on all device sizes
 5. Creates a positive experience for the user using gaming colour, imagery and layout
 6. To display the content in a culturally appropriate attested to the audience it is aimed at
-7. Displays the following content across various pages - currently playing/upcoming streams/upcoming 3 games by console/ top 5 all time
+7. Displays the following content across various pages - currently playing/upcoming streams/upcoming 3 games by console/top 5 all time games
 
 ## Developer goals
 As the developer, the site is to achieve the following goals:
@@ -239,7 +239,7 @@ Social links:
 *	[Twitch](https://www.designpieces.com/palette/twitch-color-palette-hex-and-rgb/)
 
 The colour schemes presented on the shadowing of the gamer card icons are purely shadowing the colour of the main icon.
-The progress bars colouring is linked between the categories they respresent and the top 5 games to ensure consistency and layout design.
+The progress bars colouring is linked between the categories they represent and the top 5 games to ensure consistency and layout design.
 
 #### Imagery
 The site uses a hero image on the landing page to convey a dark gaming ambience that is not overpowering to the site user. 
@@ -252,7 +252,7 @@ According to the following article on [Visual Hierarchy](https://www.interaction
 
 “Visual hierarchy controls the delivery of the experience. If you have a hard time figuring out where to look on a page, it’s more than likely that its layout is missing a clear visual hierarchy.”
 
-The following characteristics per the article are manipulated (article narrative in bold, developer response in italic):
+The following characteristics per the article are manipulated (__article narrative in bold__, _developer response in italic_):
 * __Size – Users notice larger elements more easily.__ _Large glass cards provide a pop effect to the user_
 * __Colour – Bright colours typically attract more attention than muted ones.__ _The contrast between black background and white text attracts the user the read the text more visibly. The shadow effect around the gaming cards along with the background blending creates a solid contrast to the information presented_
 * __Contrast – Dramatically contrasted colours are more eye-catching.__ _As noted above_
@@ -266,7 +266,7 @@ The following characteristics per the article are manipulated (article narrative
 ##### Responsive navigation section
 * The navigation displays both the site name (when clicked brings you back to the landing page) and the other site pages that the user can browse. For mobile design, the site pages collapse into a burger icon by using Bootstrap’s JavaScript, enabling the user to toggle on mobile devices
 * The navigation displays a “call to action” for the user to allow them to recommend a game on a multi-choice gaming platform
-* A state change is implemented on the site as they navigate through it through the use of “active” sheet
+* A state change is implemented on the site as they navigate through it through the use of “active” sheet - an underline of the page currently on
 
 ##### Colours & Fonts
 * Background colour is set using a “shading effect”, displaying a futuristic and blended approach from jet black to light grey
@@ -277,7 +277,7 @@ The following characteristics per the article are manipulated (article narrative
 
 ##### Landing page background image and text
 *	The image in the background of the landing page is of a streaming nature, appealing to the users feelings of a professional game design. The colouring of this is shaded and blended into the non-image section of the site
-*	The text overlaying the background conveys to the user what the site is designed for
+*	The text overlaying the background conveys to the user who & what the site is designed for
 *	The three action cards overlaying the background highlight the sites function in minimal words. This is common in gaming sites as taglines need to be short and memorable
 
 ##### Footer
@@ -497,6 +497,7 @@ As a returning/frequent visitor of the site, I want:
 * The burger icon on the mobile design moves in from the right when clicked.
 * On WAVE testing, an alert is made that "Redundant link - Adjacent links go to the same URL.". This relates to the navbar headings at the top of each page, and are there by design choice and will not be removed despite the WAVE alert.
 * On WAVE testing, an alert is made that "Underlined text is present.", which relates to the "active" page the user is on. This underlining of the current page is there by design choice and will not be removed despite the WAVE alert.
+* On Google Lighthouse testing, it was noted that using JPEG2000 rather than PNG/JPEG for images adds to the performance of the site for image loading. Whilst I agree and would like to, the conversion tool on my laptop to perform this for the images is restricted due to administrator settings.
 
 ## Deployment
 
@@ -558,23 +559,23 @@ Click [Here](https://docs.github.com/en/github/creating-cloning-and-archiving-re
 
 ##### Games to watch icons - sources
 
-*	[Baldo](https://www.rpgsite.net/games/1460-baldo)
+*	[Baldo](https://www.rpgsite.net/games/1460-baldo). Sourced from rpgsite.net - a gaming community site
 *	[Beyond](https://www.deviantart.com/blagoicons/art/Beyond-Good-and-Evil-Icon-656378490) and [Designer](https://www.deviantart.com/blagoicons)
 *	[Dyling light](https://www.deviantart.com/hazzbrogaming/art/Icon-Dying-Light-2-815163171) and [Designer](https://www.deviantart.com/hazzbrogaming)
-*	[Eastward](https://www.rpgsite.net/games/1143-eastward)
-*	[Halo](https://lookingforclan.com/games/halo-infinite)
+*	[Eastward](https://www.rpgsite.net/games/1143-eastward). Sourced from rpgsite.net - a gaming community site.
+*	[Halo](https://lookingforclan.com/games/halo-infinite). Sourced from lookingforclan.com - a gaming community site.
 *	[Harvest Moon](https://www.deviantart.com/ignessie/art/Harvest-Moon-Seasons-Greetings-Logo-291461074) and [Designer](https://www.deviantart.com/ignessie)
-*	[Outriders](https://twitter.com/outriders?lang=es)
+*	[Outriders](https://twitter.com/outriders?lang=es). Original game design icon. 
 *	[Rachet & Clank](https://www.deviantart.com/troublem4ker/art/Ratchet-and-Clank-Icon-658044192) and [Designer](https://www.deviantart.com/troublem4ker)
-*	[Resident Evil](https://www.pinterest.com/pin/794533559248100974/)
+*	[Resident Evil](https://www.pinterest.com/pin/794533559248100974/). Original game design icon.
 
 ##### Currently playing/ upcoming streams icons - sources
 
 *	[Assassins creed](https://apprecs.com/ios/1109721091/hd-wallpapers-assassins-creed-edition)
 *	[Cyberpunk](https://www.deviantart.com/blagoicons/art/Cyberpunk-2077-Icon-801098381) and [Designer](https://www.deviantart.com/blagoicons)
 *	[Last of us](https://www.deviantart.com/troublem4ker/art/The-Last-of-us-Icon-608566586) and [Designer](https://www.deviantart.com/troublem4ker)
-*	[Sackboy](https://twitter.com/littlebigplanet)
-*	[The Sims](https://sims.fandom.com/wiki/The_Sims_4)
+*	[Sackboy](https://twitter.com/littlebigplanet) . Original game design icon.
+*	[The Sims](https://sims.fandom.com/wiki/The_Sims_4). . Original game design icon.
 
 ##### Console/Social icons - colouring sources
 
