@@ -121,7 +121,7 @@ Is the content culturally appropriate? |	Design is based on the gaming community
 Is the content relevant? |	Acting as a hub for the streamer, only relevant content is to be displayed to the user
 Can we provide content in an intuitive way? |	The sites users are familiar with gaming site styles, layouts and content and as such expect this
 Is the technology appropriate? |	As above, site style and layout are as per industry gaming websites
-Who is my target audience? |	Followers of my online video game streaming service
+Who is my target audience? |	Followers of the streamers online video game streaming service
 What functions do I perform? |	Online streaming of video games, game reviews
 Product considerations |	No overload of content on the website by using large images and visually appealing layout. The modal is to be clear and present for the user to submit streaming recommendations. Navigation must be easy across all devices
 
@@ -142,7 +142,7 @@ How the site users can get in touch to recommend a game |	5 |	5
 What's in? |	What's out?
 -------- | ---------
 Central hub for streaming dates | Live streaming from the webpage
-Games I am currently playing |	Community login and message boards
+Games currently playing |	Community login and message boards
 Upcoming game information	
 Favourite all time games	
 Footer information – social and platform streaming	
@@ -506,7 +506,7 @@ As a returning/frequent visitor of the site, I want:
 
 The project was deployed to GitHub Pages using the following steps.
 
-1.	Log in to GitHub and locate the GitHub Repository.
+1.	Log in to GitHub and locate the [GameShow GitHub Repository](https://github.com/aryan008/gameshow-m1).
 2.	At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
 3.	Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4.	Under "Source", click the dropdown called "None" and select "Master Branch".
@@ -517,13 +517,13 @@ The project was deployed to GitHub Pages using the following steps.
 
 By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps.
 
-1.	Log in to GitHub and locate the GitHub Repository.
+1.	Log in to GitHub and locate the [GameShow GitHub Repository](https://github.com/aryan008/gameshow-m1).
 2.	At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3.	You should now have a copy of the original repository in your GitHub account.
 
 
 ### How to run this project locally
-1.	Log in to GitHub and locate the GitHub Repository.
+1.	Log in to GitHub and locate the [GameShow GitHub Repository](https://github.com/aryan008/gameshow-m1).
 2.	Under the repository name, click "Clone or download".
 3.	To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4.	Open Git Bash
